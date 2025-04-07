@@ -1,0 +1,852 @@
+Image_ID,Image_Path,Label_Path
+00054_145,../brain_tumor_classification/data/images/00054_145.jpg,../brain_tumor_classification/data/labels/00054_145.txt
+00054_164,../brain_tumor_classification/data/images/00054_164.jpg,../brain_tumor_classification/data/labels/00054_164.txt
+00056_129,../brain_tumor_classification/data/images/00056_129.jpg,../brain_tumor_classification/data/labels/00056_129.txt
+00056_147,../brain_tumor_classification/data/images/00056_147.jpg,../brain_tumor_classification/data/labels/00056_147.txt
+00056_239,../brain_tumor_classification/data/images/00056_239.jpg,../brain_tumor_classification/data/labels/00056_239.txt
+00056_92,../brain_tumor_classification/data/images/00056_92.jpg,../brain_tumor_classification/data/labels/00056_92.txt
+00058_102,../brain_tumor_classification/data/images/00058_102.jpg,../brain_tumor_classification/data/labels/00058_102.txt
+00058_122,../brain_tumor_classification/data/images/00058_122.jpg,../brain_tumor_classification/data/labels/00058_122.txt
+00058_141,../brain_tumor_classification/data/images/00058_141.jpg,../brain_tumor_classification/data/labels/00058_141.txt
+00058_179,../brain_tumor_classification/data/images/00058_179.jpg,../brain_tumor_classification/data/labels/00058_179.txt
+00059_103,../brain_tumor_classification/data/images/00059_103.jpg,../brain_tumor_classification/data/labels/00059_103.txt
+00059_122,../brain_tumor_classification/data/images/00059_122.jpg,../brain_tumor_classification/data/labels/00059_122.txt
+00059_141,../brain_tumor_classification/data/images/00059_141.jpg,../brain_tumor_classification/data/labels/00059_141.txt
+00060_71,../brain_tumor_classification/data/images/00060_71.jpg,../brain_tumor_classification/data/labels/00060_71.txt
+00060_72,../brain_tumor_classification/data/images/00060_72.jpg,../brain_tumor_classification/data/labels/00060_72.txt
+00061_108,../brain_tumor_classification/data/images/00061_108.jpg,../brain_tumor_classification/data/labels/00061_108.txt
+00061_127,../brain_tumor_classification/data/images/00061_127.jpg,../brain_tumor_classification/data/labels/00061_127.txt
+00061_146,../brain_tumor_classification/data/images/00061_146.jpg,../brain_tumor_classification/data/labels/00061_146.txt
+00061_184,../brain_tumor_classification/data/images/00061_184.jpg,../brain_tumor_classification/data/labels/00061_184.txt
+00063_197,../brain_tumor_classification/data/images/00063_197.jpg,../brain_tumor_classification/data/labels/00063_197.txt
+00063_217,../brain_tumor_classification/data/images/00063_217.jpg,../brain_tumor_classification/data/labels/00063_217.txt
+00064_101,../brain_tumor_classification/data/images/00064_101.jpg,../brain_tumor_classification/data/labels/00064_101.txt
+00064_121,../brain_tumor_classification/data/images/00064_121.jpg,../brain_tumor_classification/data/labels/00064_121.txt
+00064_140,../brain_tumor_classification/data/images/00064_140.jpg,../brain_tumor_classification/data/labels/00064_140.txt
+00066_145,../brain_tumor_classification/data/images/00066_145.jpg,../brain_tumor_classification/data/labels/00066_145.txt
+00066_221,../brain_tumor_classification/data/images/00066_221.jpg,../brain_tumor_classification/data/labels/00066_221.txt
+00066_240,../brain_tumor_classification/data/images/00066_240.jpg,../brain_tumor_classification/data/labels/00066_240.txt
+00066_259,../brain_tumor_classification/data/images/00066_259.jpg,../brain_tumor_classification/data/labels/00066_259.txt
+00066_278,../brain_tumor_classification/data/images/00066_278.jpg,../brain_tumor_classification/data/labels/00066_278.txt
+00071_183,../brain_tumor_classification/data/images/00071_183.jpg,../brain_tumor_classification/data/labels/00071_183.txt
+00071_221,../brain_tumor_classification/data/images/00071_221.jpg,../brain_tumor_classification/data/labels/00071_221.txt
+00071_240,../brain_tumor_classification/data/images/00071_240.jpg,../brain_tumor_classification/data/labels/00071_240.txt
+00071_259,../brain_tumor_classification/data/images/00071_259.jpg,../brain_tumor_classification/data/labels/00071_259.txt
+00071_278,../brain_tumor_classification/data/images/00071_278.jpg,../brain_tumor_classification/data/labels/00071_278.txt
+00072_119,../brain_tumor_classification/data/images/00072_119.jpg,../brain_tumor_classification/data/labels/00072_119.txt
+00072_138,../brain_tumor_classification/data/images/00072_138.jpg,../brain_tumor_classification/data/labels/00072_138.txt
+00072_196,../brain_tumor_classification/data/images/00072_196.jpg,../brain_tumor_classification/data/labels/00072_196.txt
+00072_80,../brain_tumor_classification/data/images/00072_80.jpg,../brain_tumor_classification/data/labels/00072_80.txt
+00072_99,../brain_tumor_classification/data/images/00072_99.jpg,../brain_tumor_classification/data/labels/00072_99.txt
+00074_209,../brain_tumor_classification/data/images/00074_209.jpg,../brain_tumor_classification/data/labels/00074_209.txt
+00074_229,../brain_tumor_classification/data/images/00074_229.jpg,../brain_tumor_classification/data/labels/00074_229.txt
+00074_249,../brain_tumor_classification/data/images/00074_249.jpg,../brain_tumor_classification/data/labels/00074_249.txt
+00074_269,../brain_tumor_classification/data/images/00074_269.jpg,../brain_tumor_classification/data/labels/00074_269.txt
+00074_289,../brain_tumor_classification/data/images/00074_289.jpg,../brain_tumor_classification/data/labels/00074_289.txt
+00077_166,../brain_tumor_classification/data/images/00077_166.jpg,../brain_tumor_classification/data/labels/00077_166.txt
+00077_186,../brain_tumor_classification/data/images/00077_186.jpg,../brain_tumor_classification/data/labels/00077_186.txt
+00077_206,../brain_tumor_classification/data/images/00077_206.jpg,../brain_tumor_classification/data/labels/00077_206.txt
+00077_226,../brain_tumor_classification/data/images/00077_226.jpg,../brain_tumor_classification/data/labels/00077_226.txt
+00077_246,../brain_tumor_classification/data/images/00077_246.jpg,../brain_tumor_classification/data/labels/00077_246.txt
+00078_219,../brain_tumor_classification/data/images/00078_219.jpg,../brain_tumor_classification/data/labels/00078_219.txt
+00078_239,../brain_tumor_classification/data/images/00078_239.jpg,../brain_tumor_classification/data/labels/00078_239.txt
+00078_258,../brain_tumor_classification/data/images/00078_258.jpg,../brain_tumor_classification/data/labels/00078_258.txt
+00078_278,../brain_tumor_classification/data/images/00078_278.jpg,../brain_tumor_classification/data/labels/00078_278.txt
+00085_156,../brain_tumor_classification/data/images/00085_156.jpg,../brain_tumor_classification/data/labels/00085_156.txt
+00087_130,../brain_tumor_classification/data/images/00087_130.jpg,../brain_tumor_classification/data/labels/00087_130.txt
+00087_149,../brain_tumor_classification/data/images/00087_149.jpg,../brain_tumor_classification/data/labels/00087_149.txt
+00087_185,../brain_tumor_classification/data/images/00087_185.jpg,../brain_tumor_classification/data/labels/00087_185.txt
+00090_112,../brain_tumor_classification/data/images/00090_112.jpg,../brain_tumor_classification/data/labels/00090_112.txt
+00090_130,../brain_tumor_classification/data/images/00090_130.jpg,../brain_tumor_classification/data/labels/00090_130.txt
+00090_204,../brain_tumor_classification/data/images/00090_204.jpg,../brain_tumor_classification/data/labels/00090_204.txt
+00095_161,../brain_tumor_classification/data/images/00095_161.jpg,../brain_tumor_classification/data/labels/00095_161.txt
+00095_170,../brain_tumor_classification/data/images/00095_170.jpg,../brain_tumor_classification/data/labels/00095_170.txt
+00095_176,../brain_tumor_classification/data/images/00095_176.jpg,../brain_tumor_classification/data/labels/00095_176.txt
+00095_181,../brain_tumor_classification/data/images/00095_181.jpg,../brain_tumor_classification/data/labels/00095_181.txt
+00095_188,../brain_tumor_classification/data/images/00095_188.jpg,../brain_tumor_classification/data/labels/00095_188.txt
+00095_200,../brain_tumor_classification/data/images/00095_200.jpg,../brain_tumor_classification/data/labels/00095_200.txt
+00095_201,../brain_tumor_classification/data/images/00095_201.jpg,../brain_tumor_classification/data/labels/00095_201.txt
+00095_212,../brain_tumor_classification/data/images/00095_212.jpg,../brain_tumor_classification/data/labels/00095_212.txt
+00095_222,../brain_tumor_classification/data/images/00095_222.jpg,../brain_tumor_classification/data/labels/00095_222.txt
+00095_224,../brain_tumor_classification/data/images/00095_224.jpg,../brain_tumor_classification/data/labels/00095_224.txt
+00095_226,../brain_tumor_classification/data/images/00095_226.jpg,../brain_tumor_classification/data/labels/00095_226.txt
+00095_236,../brain_tumor_classification/data/images/00095_236.jpg,../brain_tumor_classification/data/labels/00095_236.txt
+00095_243,../brain_tumor_classification/data/images/00095_243.jpg,../brain_tumor_classification/data/labels/00095_243.txt
+00095_263,../brain_tumor_classification/data/images/00095_263.jpg,../brain_tumor_classification/data/labels/00095_263.txt
+00096_240,../brain_tumor_classification/data/images/00096_240.jpg,../brain_tumor_classification/data/labels/00096_240.txt
+00096_260,../brain_tumor_classification/data/images/00096_260.jpg,../brain_tumor_classification/data/labels/00096_260.txt
+00096_280,../brain_tumor_classification/data/images/00096_280.jpg,../brain_tumor_classification/data/labels/00096_280.txt
+00097_106,../brain_tumor_classification/data/images/00097_106.jpg,../brain_tumor_classification/data/labels/00097_106.txt
+00097_124,../brain_tumor_classification/data/images/00097_124.jpg,../brain_tumor_classification/data/labels/00097_124.txt
+00097_162,../brain_tumor_classification/data/images/00097_162.jpg,../brain_tumor_classification/data/labels/00097_162.txt
+00097_254,../brain_tumor_classification/data/images/00097_254.jpg,../brain_tumor_classification/data/labels/00097_254.txt
+00097_65,../brain_tumor_classification/data/images/00097_65.jpg,../brain_tumor_classification/data/labels/00097_65.txt
+00097_68,../brain_tumor_classification/data/images/00097_68.jpg,../brain_tumor_classification/data/labels/00097_68.txt
+00097_70,../brain_tumor_classification/data/images/00097_70.jpg,../brain_tumor_classification/data/labels/00097_70.txt
+00097_72,../brain_tumor_classification/data/images/00097_72.jpg,../brain_tumor_classification/data/labels/00097_72.txt
+00097_74,../brain_tumor_classification/data/images/00097_74.jpg,../brain_tumor_classification/data/labels/00097_74.txt
+00097_76,../brain_tumor_classification/data/images/00097_76.jpg,../brain_tumor_classification/data/labels/00097_76.txt
+00097_77,../brain_tumor_classification/data/images/00097_77.jpg,../brain_tumor_classification/data/labels/00097_77.txt
+00097_79,../brain_tumor_classification/data/images/00097_79.jpg,../brain_tumor_classification/data/labels/00097_79.txt
+00097_80,../brain_tumor_classification/data/images/00097_80.jpg,../brain_tumor_classification/data/labels/00097_80.txt
+00097_81,../brain_tumor_classification/data/images/00097_81.jpg,../brain_tumor_classification/data/labels/00097_81.txt
+00097_83,../brain_tumor_classification/data/images/00097_83.jpg,../brain_tumor_classification/data/labels/00097_83.txt
+00097_87,../brain_tumor_classification/data/images/00097_87.jpg,../brain_tumor_classification/data/labels/00097_87.txt
+00098_247,../brain_tumor_classification/data/images/00098_247.jpg,../brain_tumor_classification/data/labels/00098_247.txt
+00098_266,../brain_tumor_classification/data/images/00098_266.jpg,../brain_tumor_classification/data/labels/00098_266.txt
+00099_129,../brain_tumor_classification/data/images/00099_129.jpg,../brain_tumor_classification/data/labels/00099_129.txt
+00099_130,../brain_tumor_classification/data/images/00099_130.jpg,../brain_tumor_classification/data/labels/00099_130.txt
+00099_137,../brain_tumor_classification/data/images/00099_137.jpg,../brain_tumor_classification/data/labels/00099_137.txt
+00099_139,../brain_tumor_classification/data/images/00099_139.jpg,../brain_tumor_classification/data/labels/00099_139.txt
+00099_145,../brain_tumor_classification/data/images/00099_145.jpg,../brain_tumor_classification/data/labels/00099_145.txt
+00099_149,../brain_tumor_classification/data/images/00099_149.jpg,../brain_tumor_classification/data/labels/00099_149.txt
+00099_154,../brain_tumor_classification/data/images/00099_154.jpg,../brain_tumor_classification/data/labels/00099_154.txt
+00100_102,../brain_tumor_classification/data/images/00100_102.jpg,../brain_tumor_classification/data/labels/00100_102.txt
+00100_119,../brain_tumor_classification/data/images/00100_119.jpg,../brain_tumor_classification/data/labels/00100_119.txt
+00100_136,../brain_tumor_classification/data/images/00100_136.jpg,../brain_tumor_classification/data/labels/00100_136.txt
+00100_153,../brain_tumor_classification/data/images/00100_153.jpg,../brain_tumor_classification/data/labels/00100_153.txt
+00100_170,../brain_tumor_classification/data/images/00100_170.jpg,../brain_tumor_classification/data/labels/00100_170.txt
+00104_132,../brain_tumor_classification/data/images/00104_132.jpg,../brain_tumor_classification/data/labels/00104_132.txt
+00104_14,../brain_tumor_classification/data/images/00104_14.jpg,../brain_tumor_classification/data/labels/00104_14.txt
+00104_15,../brain_tumor_classification/data/images/00104_15.jpg,../brain_tumor_classification/data/labels/00104_15.txt
+00104_150,../brain_tumor_classification/data/images/00104_150.jpg,../brain_tumor_classification/data/labels/00104_150.txt
+00104_16,../brain_tumor_classification/data/images/00104_16.jpg,../brain_tumor_classification/data/labels/00104_16.txt
+00104_168,../brain_tumor_classification/data/images/00104_168.jpg,../brain_tumor_classification/data/labels/00104_168.txt
+00104_17,../brain_tumor_classification/data/images/00104_17.jpg,../brain_tumor_classification/data/labels/00104_17.txt
+00104_18,../brain_tumor_classification/data/images/00104_18.jpg,../brain_tumor_classification/data/labels/00104_18.txt
+00104_185,../brain_tumor_classification/data/images/00104_185.jpg,../brain_tumor_classification/data/labels/00104_185.txt
+00104_19,../brain_tumor_classification/data/images/00104_19.jpg,../brain_tumor_classification/data/labels/00104_19.txt
+00105_113,../brain_tumor_classification/data/images/00105_113.jpg,../brain_tumor_classification/data/labels/00105_113.txt
+00105_94,../brain_tumor_classification/data/images/00105_94.jpg,../brain_tumor_classification/data/labels/00105_94.txt
+00106_195,../brain_tumor_classification/data/images/00106_195.jpg,../brain_tumor_classification/data/labels/00106_195.txt
+00106_253,../brain_tumor_classification/data/images/00106_253.jpg,../brain_tumor_classification/data/labels/00106_253.txt
+00107_101,../brain_tumor_classification/data/images/00107_101.jpg,../brain_tumor_classification/data/labels/00107_101.txt
+00107_118,../brain_tumor_classification/data/images/00107_118.jpg,../brain_tumor_classification/data/labels/00107_118.txt
+00108_102,../brain_tumor_classification/data/images/00108_102.jpg,../brain_tumor_classification/data/labels/00108_102.txt
+00109_104,../brain_tumor_classification/data/images/00109_104.jpg,../brain_tumor_classification/data/labels/00109_104.txt
+00109_85,../brain_tumor_classification/data/images/00109_85.jpg,../brain_tumor_classification/data/labels/00109_85.txt
+00110_131,../brain_tumor_classification/data/images/00110_131.jpg,../brain_tumor_classification/data/labels/00110_131.txt
+00110_147,../brain_tumor_classification/data/images/00110_147.jpg,../brain_tumor_classification/data/labels/00110_147.txt
+00110_162,../brain_tumor_classification/data/images/00110_162.jpg,../brain_tumor_classification/data/labels/00110_162.txt
+00110_178,../brain_tumor_classification/data/images/00110_178.jpg,../brain_tumor_classification/data/labels/00110_178.txt
+00111_110,../brain_tumor_classification/data/images/00111_110.jpg,../brain_tumor_classification/data/labels/00111_110.txt
+00111_98,../brain_tumor_classification/data/images/00111_98.jpg,../brain_tumor_classification/data/labels/00111_98.txt
+00112_10,../brain_tumor_classification/data/images/00112_10.jpg,../brain_tumor_classification/data/labels/00112_10.txt
+00112_11,../brain_tumor_classification/data/images/00112_11.jpg,../brain_tumor_classification/data/labels/00112_11.txt
+00112_12,../brain_tumor_classification/data/images/00112_12.jpg,../brain_tumor_classification/data/labels/00112_12.txt
+00116_11,../brain_tumor_classification/data/images/00116_11.jpg,../brain_tumor_classification/data/labels/00116_11.txt
+00116_12,../brain_tumor_classification/data/images/00116_12.jpg,../brain_tumor_classification/data/labels/00116_12.txt
+00116_13,../brain_tumor_classification/data/images/00116_13.jpg,../brain_tumor_classification/data/labels/00116_13.txt
+00116_14,../brain_tumor_classification/data/images/00116_14.jpg,../brain_tumor_classification/data/labels/00116_14.txt
+00116_15,../brain_tumor_classification/data/images/00116_15.jpg,../brain_tumor_classification/data/labels/00116_15.txt
+00116_16,../brain_tumor_classification/data/images/00116_16.jpg,../brain_tumor_classification/data/labels/00116_16.txt
+00116_231,../brain_tumor_classification/data/images/00116_231.jpg,../brain_tumor_classification/data/labels/00116_231.txt
+00116_8,../brain_tumor_classification/data/images/00116_8.jpg,../brain_tumor_classification/data/labels/00116_8.txt
+00116_9,../brain_tumor_classification/data/images/00116_9.jpg,../brain_tumor_classification/data/labels/00116_9.txt
+00117_200,../brain_tumor_classification/data/images/00117_200.jpg,../brain_tumor_classification/data/labels/00117_200.txt
+00120_215,../brain_tumor_classification/data/images/00120_215.jpg,../brain_tumor_classification/data/labels/00120_215.txt
+00120_230,../brain_tumor_classification/data/images/00120_230.jpg,../brain_tumor_classification/data/labels/00120_230.txt
+00120_245,../brain_tumor_classification/data/images/00120_245.jpg,../brain_tumor_classification/data/labels/00120_245.txt
+00120_260,../brain_tumor_classification/data/images/00120_260.jpg,../brain_tumor_classification/data/labels/00120_260.txt
+00121_139,../brain_tumor_classification/data/images/00121_139.jpg,../brain_tumor_classification/data/labels/00121_139.txt
+00121_157,../brain_tumor_classification/data/images/00121_157.jpg,../brain_tumor_classification/data/labels/00121_157.txt
+00121_175,../brain_tumor_classification/data/images/00121_175.jpg,../brain_tumor_classification/data/labels/00121_175.txt
+00122_10,../brain_tumor_classification/data/images/00122_10.jpg,../brain_tumor_classification/data/labels/00122_10.txt
+00122_108,../brain_tumor_classification/data/images/00122_108.jpg,../brain_tumor_classification/data/labels/00122_108.txt
+00122_11,../brain_tumor_classification/data/images/00122_11.jpg,../brain_tumor_classification/data/labels/00122_11.txt
+00122_8,../brain_tumor_classification/data/images/00122_8.jpg,../brain_tumor_classification/data/labels/00122_8.txt
+00122_9,../brain_tumor_classification/data/images/00122_9.jpg,../brain_tumor_classification/data/labels/00122_9.txt
+00122_90,../brain_tumor_classification/data/images/00122_90.jpg,../brain_tumor_classification/data/labels/00122_90.txt
+00123_10,../brain_tumor_classification/data/images/00123_10.jpg,../brain_tumor_classification/data/labels/00123_10.txt
+00123_11,../brain_tumor_classification/data/images/00123_11.jpg,../brain_tumor_classification/data/labels/00123_11.txt
+00123_12,../brain_tumor_classification/data/images/00123_12.jpg,../brain_tumor_classification/data/labels/00123_12.txt
+00123_13,../brain_tumor_classification/data/images/00123_13.jpg,../brain_tumor_classification/data/labels/00123_13.txt
+00123_14,../brain_tumor_classification/data/images/00123_14.jpg,../brain_tumor_classification/data/labels/00123_14.txt
+00123_15,../brain_tumor_classification/data/images/00123_15.jpg,../brain_tumor_classification/data/labels/00123_15.txt
+00123_16,../brain_tumor_classification/data/images/00123_16.jpg,../brain_tumor_classification/data/labels/00123_16.txt
+00123_223,../brain_tumor_classification/data/images/00123_223.jpg,../brain_tumor_classification/data/labels/00123_223.txt
+00123_241,../brain_tumor_classification/data/images/00123_241.jpg,../brain_tumor_classification/data/labels/00123_241.txt
+00123_259,../brain_tumor_classification/data/images/00123_259.jpg,../brain_tumor_classification/data/labels/00123_259.txt
+00123_277,../brain_tumor_classification/data/images/00123_277.jpg,../brain_tumor_classification/data/labels/00123_277.txt
+00124_10,../brain_tumor_classification/data/images/00124_10.jpg,../brain_tumor_classification/data/labels/00124_10.txt
+00124_11,../brain_tumor_classification/data/images/00124_11.jpg,../brain_tumor_classification/data/labels/00124_11.txt
+00124_114,../brain_tumor_classification/data/images/00124_114.jpg,../brain_tumor_classification/data/labels/00124_114.txt
+00124_12,../brain_tumor_classification/data/images/00124_12.jpg,../brain_tumor_classification/data/labels/00124_12.txt
+00124_132,../brain_tumor_classification/data/images/00124_132.jpg,../brain_tumor_classification/data/labels/00124_132.txt
+00124_150,../brain_tumor_classification/data/images/00124_150.jpg,../brain_tumor_classification/data/labels/00124_150.txt
+00124_168,../brain_tumor_classification/data/images/00124_168.jpg,../brain_tumor_classification/data/labels/00124_168.txt
+00124_6,../brain_tumor_classification/data/images/00124_6.jpg,../brain_tumor_classification/data/labels/00124_6.txt
+00124_7,../brain_tumor_classification/data/images/00124_7.jpg,../brain_tumor_classification/data/labels/00124_7.txt
+00124_8,../brain_tumor_classification/data/images/00124_8.jpg,../brain_tumor_classification/data/labels/00124_8.txt
+00124_9,../brain_tumor_classification/data/images/00124_9.jpg,../brain_tumor_classification/data/labels/00124_9.txt
+00124_96,../brain_tumor_classification/data/images/00124_96.jpg,../brain_tumor_classification/data/labels/00124_96.txt
+00128_243,../brain_tumor_classification/data/images/00128_243.jpg,../brain_tumor_classification/data/labels/00128_243.txt
+00128_260,../brain_tumor_classification/data/images/00128_260.jpg,../brain_tumor_classification/data/labels/00128_260.txt
+00128_277,../brain_tumor_classification/data/images/00128_277.jpg,../brain_tumor_classification/data/labels/00128_277.txt
+00130_100,../brain_tumor_classification/data/images/00130_100.jpg,../brain_tumor_classification/data/labels/00130_100.txt
+00130_107,../brain_tumor_classification/data/images/00130_107.jpg,../brain_tumor_classification/data/labels/00130_107.txt
+00130_112,../brain_tumor_classification/data/images/00130_112.jpg,../brain_tumor_classification/data/labels/00130_112.txt
+00130_114,../brain_tumor_classification/data/images/00130_114.jpg,../brain_tumor_classification/data/labels/00130_114.txt
+00130_119,../brain_tumor_classification/data/images/00130_119.jpg,../brain_tumor_classification/data/labels/00130_119.txt
+00130_239,../brain_tumor_classification/data/images/00130_239.jpg,../brain_tumor_classification/data/labels/00130_239.txt
+00130_256,../brain_tumor_classification/data/images/00130_256.jpg,../brain_tumor_classification/data/labels/00130_256.txt
+00130_273,../brain_tumor_classification/data/images/00130_273.jpg,../brain_tumor_classification/data/labels/00130_273.txt
+00130_78,../brain_tumor_classification/data/images/00130_78.jpg,../brain_tumor_classification/data/labels/00130_78.txt
+00130_81,../brain_tumor_classification/data/images/00130_81.jpg,../brain_tumor_classification/data/labels/00130_81.txt
+00130_88,../brain_tumor_classification/data/images/00130_88.jpg,../brain_tumor_classification/data/labels/00130_88.txt
+00130_94,../brain_tumor_classification/data/images/00130_94.jpg,../brain_tumor_classification/data/labels/00130_94.txt
+00132_112,../brain_tumor_classification/data/images/00132_112.jpg,../brain_tumor_classification/data/labels/00132_112.txt
+00132_130,../brain_tumor_classification/data/images/00132_130.jpg,../brain_tumor_classification/data/labels/00132_130.txt
+00132_147,../brain_tumor_classification/data/images/00132_147.jpg,../brain_tumor_classification/data/labels/00132_147.txt
+00132_164,../brain_tumor_classification/data/images/00132_164.jpg,../brain_tumor_classification/data/labels/00132_164.txt
+00132_95,../brain_tumor_classification/data/images/00132_95.jpg,../brain_tumor_classification/data/labels/00132_95.txt
+00133_228,../brain_tumor_classification/data/images/00133_228.jpg,../brain_tumor_classification/data/labels/00133_228.txt
+00133_247,../brain_tumor_classification/data/images/00133_247.jpg,../brain_tumor_classification/data/labels/00133_247.txt
+00133_266,../brain_tumor_classification/data/images/00133_266.jpg,../brain_tumor_classification/data/labels/00133_266.txt
+00136_103,../brain_tumor_classification/data/images/00136_103.jpg,../brain_tumor_classification/data/labels/00136_103.txt
+00136_121,../brain_tumor_classification/data/images/00136_121.jpg,../brain_tumor_classification/data/labels/00136_121.txt
+00136_138,../brain_tumor_classification/data/images/00136_138.jpg,../brain_tumor_classification/data/labels/00136_138.txt
+00137_249,../brain_tumor_classification/data/images/00137_249.jpg,../brain_tumor_classification/data/labels/00137_249.txt
+00137_264,../brain_tumor_classification/data/images/00137_264.jpg,../brain_tumor_classification/data/labels/00137_264.txt
+00138_217,../brain_tumor_classification/data/images/00138_217.jpg,../brain_tumor_classification/data/labels/00138_217.txt
+00138_235,../brain_tumor_classification/data/images/00138_235.jpg,../brain_tumor_classification/data/labels/00138_235.txt
+00138_271,../brain_tumor_classification/data/images/00138_271.jpg,../brain_tumor_classification/data/labels/00138_271.txt
+00138_289,../brain_tumor_classification/data/images/00138_289.jpg,../brain_tumor_classification/data/labels/00138_289.txt
+00142_107,../brain_tumor_classification/data/images/00142_107.jpg,../brain_tumor_classification/data/labels/00142_107.txt
+00142_126,../brain_tumor_classification/data/images/00142_126.jpg,../brain_tumor_classification/data/labels/00142_126.txt
+00142_144,../brain_tumor_classification/data/images/00142_144.jpg,../brain_tumor_classification/data/labels/00142_144.txt
+00142_163,../brain_tumor_classification/data/images/00142_163.jpg,../brain_tumor_classification/data/labels/00142_163.txt
+00142_89,../brain_tumor_classification/data/images/00142_89.jpg,../brain_tumor_classification/data/labels/00142_89.txt
+00143_236,../brain_tumor_classification/data/images/00143_236.jpg,../brain_tumor_classification/data/labels/00143_236.txt
+00143_254,../brain_tumor_classification/data/images/00143_254.jpg,../brain_tumor_classification/data/labels/00143_254.txt
+00143_272,../brain_tumor_classification/data/images/00143_272.jpg,../brain_tumor_classification/data/labels/00143_272.txt
+00144_243,../brain_tumor_classification/data/images/00144_243.jpg,../brain_tumor_classification/data/labels/00144_243.txt
+00144_260,../brain_tumor_classification/data/images/00144_260.jpg,../brain_tumor_classification/data/labels/00144_260.txt
+00144_278,../brain_tumor_classification/data/images/00144_278.jpg,../brain_tumor_classification/data/labels/00144_278.txt
+00146_142,../brain_tumor_classification/data/images/00146_142.jpg,../brain_tumor_classification/data/labels/00146_142.txt
+00146_160,../brain_tumor_classification/data/images/00146_160.jpg,../brain_tumor_classification/data/labels/00146_160.txt
+00146_195,../brain_tumor_classification/data/images/00146_195.jpg,../brain_tumor_classification/data/labels/00146_195.txt
+00147_115,../brain_tumor_classification/data/images/00147_115.jpg,../brain_tumor_classification/data/labels/00147_115.txt
+00147_134,../brain_tumor_classification/data/images/00147_134.jpg,../brain_tumor_classification/data/labels/00147_134.txt
+00147_152,../brain_tumor_classification/data/images/00147_152.jpg,../brain_tumor_classification/data/labels/00147_152.txt
+00147_170,../brain_tumor_classification/data/images/00147_170.jpg,../brain_tumor_classification/data/labels/00147_170.txt
+00148_19,../brain_tumor_classification/data/images/00148_19.jpg,../brain_tumor_classification/data/labels/00148_19.txt
+00148_20,../brain_tumor_classification/data/images/00148_20.jpg,../brain_tumor_classification/data/labels/00148_20.txt
+00148_22,../brain_tumor_classification/data/images/00148_22.jpg,../brain_tumor_classification/data/labels/00148_22.txt
+00148_24,../brain_tumor_classification/data/images/00148_24.jpg,../brain_tumor_classification/data/labels/00148_24.txt
+00150_10,../brain_tumor_classification/data/images/00150_10.jpg,../brain_tumor_classification/data/labels/00150_10.txt
+00150_11,../brain_tumor_classification/data/images/00150_11.jpg,../brain_tumor_classification/data/labels/00150_11.txt
+00150_12,../brain_tumor_classification/data/images/00150_12.jpg,../brain_tumor_classification/data/labels/00150_12.txt
+00150_235,../brain_tumor_classification/data/images/00150_235.jpg,../brain_tumor_classification/data/labels/00150_235.txt
+00150_252,../brain_tumor_classification/data/images/00150_252.jpg,../brain_tumor_classification/data/labels/00150_252.txt
+00150_8,../brain_tumor_classification/data/images/00150_8.jpg,../brain_tumor_classification/data/labels/00150_8.txt
+00150_9,../brain_tumor_classification/data/images/00150_9.jpg,../brain_tumor_classification/data/labels/00150_9.txt
+00151_10,../brain_tumor_classification/data/images/00151_10.jpg,../brain_tumor_classification/data/labels/00151_10.txt
+00151_12,../brain_tumor_classification/data/images/00151_12.jpg,../brain_tumor_classification/data/labels/00151_12.txt
+00151_128,../brain_tumor_classification/data/images/00151_128.jpg,../brain_tumor_classification/data/labels/00151_128.txt
+00151_13,../brain_tumor_classification/data/images/00151_13.jpg,../brain_tumor_classification/data/labels/00151_13.txt
+00151_14,../brain_tumor_classification/data/images/00151_14.jpg,../brain_tumor_classification/data/labels/00151_14.txt
+00151_145,../brain_tumor_classification/data/images/00151_145.jpg,../brain_tumor_classification/data/labels/00151_145.txt
+00151_15,../brain_tumor_classification/data/images/00151_15.jpg,../brain_tumor_classification/data/labels/00151_15.txt
+00151_162,../brain_tumor_classification/data/images/00151_162.jpg,../brain_tumor_classification/data/labels/00151_162.txt
+00151_17,../brain_tumor_classification/data/images/00151_17.jpg,../brain_tumor_classification/data/labels/00151_17.txt
+00151_195,../brain_tumor_classification/data/images/00151_195.jpg,../brain_tumor_classification/data/labels/00151_195.txt
+00151_211,../brain_tumor_classification/data/images/00151_211.jpg,../brain_tumor_classification/data/labels/00151_211.txt
+00154_210,../brain_tumor_classification/data/images/00154_210.jpg,../brain_tumor_classification/data/labels/00154_210.txt
+00154_229,../brain_tumor_classification/data/images/00154_229.jpg,../brain_tumor_classification/data/labels/00154_229.txt
+00154_248,../brain_tumor_classification/data/images/00154_248.jpg,../brain_tumor_classification/data/labels/00154_248.txt
+00154_267,../brain_tumor_classification/data/images/00154_267.jpg,../brain_tumor_classification/data/labels/00154_267.txt
+00156_116,../brain_tumor_classification/data/images/00156_116.jpg,../brain_tumor_classification/data/labels/00156_116.txt
+00156_132,../brain_tumor_classification/data/images/00156_132.jpg,../brain_tumor_classification/data/labels/00156_132.txt
+00156_148,../brain_tumor_classification/data/images/00156_148.jpg,../brain_tumor_classification/data/labels/00156_148.txt
+00156_164,../brain_tumor_classification/data/images/00156_164.jpg,../brain_tumor_classification/data/labels/00156_164.txt
+00156_180,../brain_tumor_classification/data/images/00156_180.jpg,../brain_tumor_classification/data/labels/00156_180.txt
+00156_196,../brain_tumor_classification/data/images/00156_196.jpg,../brain_tumor_classification/data/labels/00156_196.txt
+00157_115,../brain_tumor_classification/data/images/00157_115.jpg,../brain_tumor_classification/data/labels/00157_115.txt
+00158_102,../brain_tumor_classification/data/images/00158_102.jpg,../brain_tumor_classification/data/labels/00158_102.txt
+00158_108,../brain_tumor_classification/data/images/00158_108.jpg,../brain_tumor_classification/data/labels/00158_108.txt
+00158_114,../brain_tumor_classification/data/images/00158_114.jpg,../brain_tumor_classification/data/labels/00158_114.txt
+00158_115,../brain_tumor_classification/data/images/00158_115.jpg,../brain_tumor_classification/data/labels/00158_115.txt
+00158_239,../brain_tumor_classification/data/images/00158_239.jpg,../brain_tumor_classification/data/labels/00158_239.txt
+00158_256,../brain_tumor_classification/data/images/00158_256.jpg,../brain_tumor_classification/data/labels/00158_256.txt
+00158_272,../brain_tumor_classification/data/images/00158_272.jpg,../brain_tumor_classification/data/labels/00158_272.txt
+00158_289,../brain_tumor_classification/data/images/00158_289.jpg,../brain_tumor_classification/data/labels/00158_289.txt
+00158_86,../brain_tumor_classification/data/images/00158_86.jpg,../brain_tumor_classification/data/labels/00158_86.txt
+00158_90,../brain_tumor_classification/data/images/00158_90.jpg,../brain_tumor_classification/data/labels/00158_90.txt
+00158_96,../brain_tumor_classification/data/images/00158_96.jpg,../brain_tumor_classification/data/labels/00158_96.txt
+00159_133,../brain_tumor_classification/data/images/00159_133.jpg,../brain_tumor_classification/data/labels/00159_133.txt
+00159_171,../brain_tumor_classification/data/images/00159_171.jpg,../brain_tumor_classification/data/labels/00159_171.txt
+00159_189,../brain_tumor_classification/data/images/00159_189.jpg,../brain_tumor_classification/data/labels/00159_189.txt
+00159_207,../brain_tumor_classification/data/images/00159_207.jpg,../brain_tumor_classification/data/labels/00159_207.txt
+00160_270,../brain_tumor_classification/data/images/00160_270.jpg,../brain_tumor_classification/data/labels/00160_270.txt
+00162_122,../brain_tumor_classification/data/images/00162_122.jpg,../brain_tumor_classification/data/labels/00162_122.txt
+00165_110,../brain_tumor_classification/data/images/00165_110.jpg,../brain_tumor_classification/data/labels/00165_110.txt
+00165_111,../brain_tumor_classification/data/images/00165_111.jpg,../brain_tumor_classification/data/labels/00165_111.txt
+00165_116,../brain_tumor_classification/data/images/00165_116.jpg,../brain_tumor_classification/data/labels/00165_116.txt
+00165_118,../brain_tumor_classification/data/images/00165_118.jpg,../brain_tumor_classification/data/labels/00165_118.txt
+00165_122,../brain_tumor_classification/data/images/00165_122.jpg,../brain_tumor_classification/data/labels/00165_122.txt
+00165_123,../brain_tumor_classification/data/images/00165_123.jpg,../brain_tumor_classification/data/labels/00165_123.txt
+00165_125,../brain_tumor_classification/data/images/00165_125.jpg,../brain_tumor_classification/data/labels/00165_125.txt
+00165_129,../brain_tumor_classification/data/images/00165_129.jpg,../brain_tumor_classification/data/labels/00165_129.txt
+00165_135,../brain_tumor_classification/data/images/00165_135.jpg,../brain_tumor_classification/data/labels/00165_135.txt
+00165_140,../brain_tumor_classification/data/images/00165_140.jpg,../brain_tumor_classification/data/labels/00165_140.txt
+00165_158,../brain_tumor_classification/data/images/00165_158.jpg,../brain_tumor_classification/data/labels/00165_158.txt
+00165_176,../brain_tumor_classification/data/images/00165_176.jpg,../brain_tumor_classification/data/labels/00165_176.txt
+00165_193,../brain_tumor_classification/data/images/00165_193.jpg,../brain_tumor_classification/data/labels/00165_193.txt
+00166_189,../brain_tumor_classification/data/images/00166_189.jpg,../brain_tumor_classification/data/labels/00166_189.txt
+00166_224,../brain_tumor_classification/data/images/00166_224.jpg,../brain_tumor_classification/data/labels/00166_224.txt
+00166_241,../brain_tumor_classification/data/images/00166_241.jpg,../brain_tumor_classification/data/labels/00166_241.txt
+00166_259,../brain_tumor_classification/data/images/00166_259.jpg,../brain_tumor_classification/data/labels/00166_259.txt
+00167_125,../brain_tumor_classification/data/images/00167_125.jpg,../brain_tumor_classification/data/labels/00167_125.txt
+00167_127,../brain_tumor_classification/data/images/00167_127.jpg,../brain_tumor_classification/data/labels/00167_127.txt
+00167_213,../brain_tumor_classification/data/images/00167_213.jpg,../brain_tumor_classification/data/labels/00167_213.txt
+00169_112,../brain_tumor_classification/data/images/00169_112.jpg,../brain_tumor_classification/data/labels/00169_112.txt
+00169_119,../brain_tumor_classification/data/images/00169_119.jpg,../brain_tumor_classification/data/labels/00169_119.txt
+00169_127,../brain_tumor_classification/data/images/00169_127.jpg,../brain_tumor_classification/data/labels/00169_127.txt
+00169_134,../brain_tumor_classification/data/images/00169_134.jpg,../brain_tumor_classification/data/labels/00169_134.txt
+00169_141,../brain_tumor_classification/data/images/00169_141.jpg,../brain_tumor_classification/data/labels/00169_141.txt
+00169_142,../brain_tumor_classification/data/images/00169_142.jpg,../brain_tumor_classification/data/labels/00169_142.txt
+00169_149,../brain_tumor_classification/data/images/00169_149.jpg,../brain_tumor_classification/data/labels/00169_149.txt
+00169_208,../brain_tumor_classification/data/images/00169_208.jpg,../brain_tumor_classification/data/labels/00169_208.txt
+00169_225,../brain_tumor_classification/data/images/00169_225.jpg,../brain_tumor_classification/data/labels/00169_225.txt
+00169_243,../brain_tumor_classification/data/images/00169_243.jpg,../brain_tumor_classification/data/labels/00169_243.txt
+00169_260,../brain_tumor_classification/data/images/00169_260.jpg,../brain_tumor_classification/data/labels/00169_260.txt
+00171_109,../brain_tumor_classification/data/images/00171_109.jpg,../brain_tumor_classification/data/labels/00171_109.txt
+00171_126,../brain_tumor_classification/data/images/00171_126.jpg,../brain_tumor_classification/data/labels/00171_126.txt
+00172_102,../brain_tumor_classification/data/images/00172_102.jpg,../brain_tumor_classification/data/labels/00172_102.txt
+00172_108,../brain_tumor_classification/data/images/00172_108.jpg,../brain_tumor_classification/data/labels/00172_108.txt
+00172_110,../brain_tumor_classification/data/images/00172_110.jpg,../brain_tumor_classification/data/labels/00172_110.txt
+00172_114,../brain_tumor_classification/data/images/00172_114.jpg,../brain_tumor_classification/data/labels/00172_114.txt
+00172_91,../brain_tumor_classification/data/images/00172_91.jpg,../brain_tumor_classification/data/labels/00172_91.txt
+00172_92,../brain_tumor_classification/data/images/00172_92.jpg,../brain_tumor_classification/data/labels/00172_92.txt
+00172_96,../brain_tumor_classification/data/images/00172_96.jpg,../brain_tumor_classification/data/labels/00172_96.txt
+00176_104,../brain_tumor_classification/data/images/00176_104.jpg,../brain_tumor_classification/data/labels/00176_104.txt
+00176_109,../brain_tumor_classification/data/images/00176_109.jpg,../brain_tumor_classification/data/labels/00176_109.txt
+00176_127,../brain_tumor_classification/data/images/00176_127.jpg,../brain_tumor_classification/data/labels/00176_127.txt
+00176_145,../brain_tumor_classification/data/images/00176_145.jpg,../brain_tumor_classification/data/labels/00176_145.txt
+00176_89,../brain_tumor_classification/data/images/00176_89.jpg,../brain_tumor_classification/data/labels/00176_89.txt
+00176_92,../brain_tumor_classification/data/images/00176_92.jpg,../brain_tumor_classification/data/labels/00176_92.txt
+00176_98,../brain_tumor_classification/data/images/00176_98.jpg,../brain_tumor_classification/data/labels/00176_98.txt
+00177_125,../brain_tumor_classification/data/images/00177_125.jpg,../brain_tumor_classification/data/labels/00177_125.txt
+00177_145,../brain_tumor_classification/data/images/00177_145.jpg,../brain_tumor_classification/data/labels/00177_145.txt
+00177_221,../brain_tumor_classification/data/images/00177_221.jpg,../brain_tumor_classification/data/labels/00177_221.txt
+00177_241,../brain_tumor_classification/data/images/00177_241.jpg,../brain_tumor_classification/data/labels/00177_241.txt
+00177_260,../brain_tumor_classification/data/images/00177_260.jpg,../brain_tumor_classification/data/labels/00177_260.txt
+00177_280,../brain_tumor_classification/data/images/00177_280.jpg,../brain_tumor_classification/data/labels/00177_280.txt
+00178_104,../brain_tumor_classification/data/images/00178_104.jpg,../brain_tumor_classification/data/labels/00178_104.txt
+00178_122,../brain_tumor_classification/data/images/00178_122.jpg,../brain_tumor_classification/data/labels/00178_122.txt
+00178_140,../brain_tumor_classification/data/images/00178_140.jpg,../brain_tumor_classification/data/labels/00178_140.txt
+00178_158,../brain_tumor_classification/data/images/00178_158.jpg,../brain_tumor_classification/data/labels/00178_158.txt
+00178_175,../brain_tumor_classification/data/images/00178_175.jpg,../brain_tumor_classification/data/labels/00178_175.txt
+00183_109,../brain_tumor_classification/data/images/00183_109.jpg,../brain_tumor_classification/data/labels/00183_109.txt
+00183_126,../brain_tumor_classification/data/images/00183_126.jpg,../brain_tumor_classification/data/labels/00183_126.txt
+00183_144,../brain_tumor_classification/data/images/00183_144.jpg,../brain_tumor_classification/data/labels/00183_144.txt
+00183_161,../brain_tumor_classification/data/images/00183_161.jpg,../brain_tumor_classification/data/labels/00183_161.txt
+00183_178,../brain_tumor_classification/data/images/00183_178.jpg,../brain_tumor_classification/data/labels/00183_178.txt
+00183_195,../brain_tumor_classification/data/images/00183_195.jpg,../brain_tumor_classification/data/labels/00183_195.txt
+00183_80,../brain_tumor_classification/data/images/00183_80.jpg,../brain_tumor_classification/data/labels/00183_80.txt
+00183_86,../brain_tumor_classification/data/images/00183_86.jpg,../brain_tumor_classification/data/labels/00183_86.txt
+00184_127,../brain_tumor_classification/data/images/00184_127.jpg,../brain_tumor_classification/data/labels/00184_127.txt
+00184_145,../brain_tumor_classification/data/images/00184_145.jpg,../brain_tumor_classification/data/labels/00184_145.txt
+00184_164,../brain_tumor_classification/data/images/00184_164.jpg,../brain_tumor_classification/data/labels/00184_164.txt
+00185_252,../brain_tumor_classification/data/images/00185_252.jpg,../brain_tumor_classification/data/labels/00185_252.txt
+00185_271,../brain_tumor_classification/data/images/00185_271.jpg,../brain_tumor_classification/data/labels/00185_271.txt
+00185_289,../brain_tumor_classification/data/images/00185_289.jpg,../brain_tumor_classification/data/labels/00185_289.txt
+00186_207,../brain_tumor_classification/data/images/00186_207.jpg,../brain_tumor_classification/data/labels/00186_207.txt
+00187_100,../brain_tumor_classification/data/images/00187_100.jpg,../brain_tumor_classification/data/labels/00187_100.txt
+00187_118,../brain_tumor_classification/data/images/00187_118.jpg,../brain_tumor_classification/data/labels/00187_118.txt
+00187_135,../brain_tumor_classification/data/images/00187_135.jpg,../brain_tumor_classification/data/labels/00187_135.txt
+00187_153,../brain_tumor_classification/data/images/00187_153.jpg,../brain_tumor_classification/data/labels/00187_153.txt
+00187_170,../brain_tumor_classification/data/images/00187_170.jpg,../brain_tumor_classification/data/labels/00187_170.txt
+00191_106,../brain_tumor_classification/data/images/00191_106.jpg,../brain_tumor_classification/data/labels/00191_106.txt
+00191_124,../brain_tumor_classification/data/images/00191_124.jpg,../brain_tumor_classification/data/labels/00191_124.txt
+00191_143,../brain_tumor_classification/data/images/00191_143.jpg,../brain_tumor_classification/data/labels/00191_143.txt
+00192_191,../brain_tumor_classification/data/images/00192_191.jpg,../brain_tumor_classification/data/labels/00192_191.txt
+00192_244,../brain_tumor_classification/data/images/00192_244.jpg,../brain_tumor_classification/data/labels/00192_244.txt
+00192_262,../brain_tumor_classification/data/images/00192_262.jpg,../brain_tumor_classification/data/labels/00192_262.txt
+00192_280,../brain_tumor_classification/data/images/00192_280.jpg,../brain_tumor_classification/data/labels/00192_280.txt
+00193_172,../brain_tumor_classification/data/images/00193_172.jpg,../brain_tumor_classification/data/labels/00193_172.txt
+00193_190,../brain_tumor_classification/data/images/00193_190.jpg,../brain_tumor_classification/data/labels/00193_190.txt
+00193_208,../brain_tumor_classification/data/images/00193_208.jpg,../brain_tumor_classification/data/labels/00193_208.txt
+00194_209,../brain_tumor_classification/data/images/00194_209.jpg,../brain_tumor_classification/data/labels/00194_209.txt
+00194_226,../brain_tumor_classification/data/images/00194_226.jpg,../brain_tumor_classification/data/labels/00194_226.txt
+00194_243,../brain_tumor_classification/data/images/00194_243.jpg,../brain_tumor_classification/data/labels/00194_243.txt
+00194_259,../brain_tumor_classification/data/images/00194_259.jpg,../brain_tumor_classification/data/labels/00194_259.txt
+00195_208,../brain_tumor_classification/data/images/00195_208.jpg,../brain_tumor_classification/data/labels/00195_208.txt
+00195_225,../brain_tumor_classification/data/images/00195_225.jpg,../brain_tumor_classification/data/labels/00195_225.txt
+00201_102,../brain_tumor_classification/data/images/00201_102.jpg,../brain_tumor_classification/data/labels/00201_102.txt
+00201_121,../brain_tumor_classification/data/images/00201_121.jpg,../brain_tumor_classification/data/labels/00201_121.txt
+00201_141,../brain_tumor_classification/data/images/00201_141.jpg,../brain_tumor_classification/data/labels/00201_141.txt
+00240_134,../brain_tumor_classification/data/images/00240_134.jpg,../brain_tumor_classification/data/labels/00240_134.txt
+00240_138,../brain_tumor_classification/data/images/00240_138.jpg,../brain_tumor_classification/data/labels/00240_138.txt
+00240_144,../brain_tumor_classification/data/images/00240_144.jpg,../brain_tumor_classification/data/labels/00240_144.txt
+00240_151,../brain_tumor_classification/data/images/00240_151.jpg,../brain_tumor_classification/data/labels/00240_151.txt
+00240_157,../brain_tumor_classification/data/images/00240_157.jpg,../brain_tumor_classification/data/labels/00240_157.txt
+00245_101,../brain_tumor_classification/data/images/00245_101.jpg,../brain_tumor_classification/data/labels/00245_101.txt
+00250_104,../brain_tumor_classification/data/images/00250_104.jpg,../brain_tumor_classification/data/labels/00250_104.txt
+00250_110,../brain_tumor_classification/data/images/00250_110.jpg,../brain_tumor_classification/data/labels/00250_110.txt
+00250_115,../brain_tumor_classification/data/images/00250_115.jpg,../brain_tumor_classification/data/labels/00250_115.txt
+00250_120,../brain_tumor_classification/data/images/00250_120.jpg,../brain_tumor_classification/data/labels/00250_120.txt
+00250_121,../brain_tumor_classification/data/images/00250_121.jpg,../brain_tumor_classification/data/labels/00250_121.txt
+00253_79,../brain_tumor_classification/data/images/00253_79.jpg,../brain_tumor_classification/data/labels/00253_79.txt
+00253_85,../brain_tumor_classification/data/images/00253_85.jpg,../brain_tumor_classification/data/labels/00253_85.txt
+00253_92,../brain_tumor_classification/data/images/00253_92.jpg,../brain_tumor_classification/data/labels/00253_92.txt
+00254_79,../brain_tumor_classification/data/images/00254_79.jpg,../brain_tumor_classification/data/labels/00254_79.txt
+00254_83,../brain_tumor_classification/data/images/00254_83.jpg,../brain_tumor_classification/data/labels/00254_83.txt
+00254_89,../brain_tumor_classification/data/images/00254_89.jpg,../brain_tumor_classification/data/labels/00254_89.txt
+00260_113,../brain_tumor_classification/data/images/00260_113.jpg,../brain_tumor_classification/data/labels/00260_113.txt
+00260_115,../brain_tumor_classification/data/images/00260_115.jpg,../brain_tumor_classification/data/labels/00260_115.txt
+00260_119,../brain_tumor_classification/data/images/00260_119.jpg,../brain_tumor_classification/data/labels/00260_119.txt
+00260_121,../brain_tumor_classification/data/images/00260_121.jpg,../brain_tumor_classification/data/labels/00260_121.txt
+00260_125,../brain_tumor_classification/data/images/00260_125.jpg,../brain_tumor_classification/data/labels/00260_125.txt
+00260_130,../brain_tumor_classification/data/images/00260_130.jpg,../brain_tumor_classification/data/labels/00260_130.txt
+00260_136,../brain_tumor_classification/data/images/00260_136.jpg,../brain_tumor_classification/data/labels/00260_136.txt
+00260_142,../brain_tumor_classification/data/images/00260_142.jpg,../brain_tumor_classification/data/labels/00260_142.txt
+00263_109,../brain_tumor_classification/data/images/00263_109.jpg,../brain_tumor_classification/data/labels/00263_109.txt
+00263_116,../brain_tumor_classification/data/images/00263_116.jpg,../brain_tumor_classification/data/labels/00263_116.txt
+00263_117,../brain_tumor_classification/data/images/00263_117.jpg,../brain_tumor_classification/data/labels/00263_117.txt
+00263_123,../brain_tumor_classification/data/images/00263_123.jpg,../brain_tumor_classification/data/labels/00263_123.txt
+00263_125,../brain_tumor_classification/data/images/00263_125.jpg,../brain_tumor_classification/data/labels/00263_125.txt
+00263_130,../brain_tumor_classification/data/images/00263_130.jpg,../brain_tumor_classification/data/labels/00263_130.txt
+00263_133,../brain_tumor_classification/data/images/00263_133.jpg,../brain_tumor_classification/data/labels/00263_133.txt
+00263_137,../brain_tumor_classification/data/images/00263_137.jpg,../brain_tumor_classification/data/labels/00263_137.txt
+00270_11,../brain_tumor_classification/data/images/00270_11.jpg,../brain_tumor_classification/data/labels/00270_11.txt
+00270_12,../brain_tumor_classification/data/images/00270_12.jpg,../brain_tumor_classification/data/labels/00270_12.txt
+00270_13,../brain_tumor_classification/data/images/00270_13.jpg,../brain_tumor_classification/data/labels/00270_13.txt
+00271_106,../brain_tumor_classification/data/images/00271_106.jpg,../brain_tumor_classification/data/labels/00271_106.txt
+00271_111,../brain_tumor_classification/data/images/00271_111.jpg,../brain_tumor_classification/data/labels/00271_111.txt
+00271_116,../brain_tumor_classification/data/images/00271_116.jpg,../brain_tumor_classification/data/labels/00271_116.txt
+00271_117,../brain_tumor_classification/data/images/00271_117.jpg,../brain_tumor_classification/data/labels/00271_117.txt
+00271_122,../brain_tumor_classification/data/images/00271_122.jpg,../brain_tumor_classification/data/labels/00271_122.txt
+00271_124,../brain_tumor_classification/data/images/00271_124.jpg,../brain_tumor_classification/data/labels/00271_124.txt
+00271_128,../brain_tumor_classification/data/images/00271_128.jpg,../brain_tumor_classification/data/labels/00271_128.txt
+00271_130,../brain_tumor_classification/data/images/00271_130.jpg,../brain_tumor_classification/data/labels/00271_130.txt
+00271_134,../brain_tumor_classification/data/images/00271_134.jpg,../brain_tumor_classification/data/labels/00271_134.txt
+00271_145,../brain_tumor_classification/data/images/00271_145.jpg,../brain_tumor_classification/data/labels/00271_145.txt
+00273_103,../brain_tumor_classification/data/images/00273_103.jpg,../brain_tumor_classification/data/labels/00273_103.txt
+00273_109,../brain_tumor_classification/data/images/00273_109.jpg,../brain_tumor_classification/data/labels/00273_109.txt
+00273_86,../brain_tumor_classification/data/images/00273_86.jpg,../brain_tumor_classification/data/labels/00273_86.txt
+00273_90,../brain_tumor_classification/data/images/00273_90.jpg,../brain_tumor_classification/data/labels/00273_90.txt
+00273_96,../brain_tumor_classification/data/images/00273_96.jpg,../brain_tumor_classification/data/labels/00273_96.txt
+00281_104,../brain_tumor_classification/data/images/00281_104.jpg,../brain_tumor_classification/data/labels/00281_104.txt
+00281_110,../brain_tumor_classification/data/images/00281_110.jpg,../brain_tumor_classification/data/labels/00281_110.txt
+00281_116,../brain_tumor_classification/data/images/00281_116.jpg,../brain_tumor_classification/data/labels/00281_116.txt
+00281_117,../brain_tumor_classification/data/images/00281_117.jpg,../brain_tumor_classification/data/labels/00281_117.txt
+00281_122,../brain_tumor_classification/data/images/00281_122.jpg,../brain_tumor_classification/data/labels/00281_122.txt
+00281_124,../brain_tumor_classification/data/images/00281_124.jpg,../brain_tumor_classification/data/labels/00281_124.txt
+00281_128,../brain_tumor_classification/data/images/00281_128.jpg,../brain_tumor_classification/data/labels/00281_128.txt
+00281_98,../brain_tumor_classification/data/images/00281_98.jpg,../brain_tumor_classification/data/labels/00281_98.txt
+00282_83,../brain_tumor_classification/data/images/00282_83.jpg,../brain_tumor_classification/data/labels/00282_83.txt
+00282_87,../brain_tumor_classification/data/images/00282_87.jpg,../brain_tumor_classification/data/labels/00282_87.txt
+00282_93,../brain_tumor_classification/data/images/00282_93.jpg,../brain_tumor_classification/data/labels/00282_93.txt
+00282_99,../brain_tumor_classification/data/images/00282_99.jpg,../brain_tumor_classification/data/labels/00282_99.txt
+00284_149,../brain_tumor_classification/data/images/00284_149.jpg,../brain_tumor_classification/data/labels/00284_149.txt
+00285_87,../brain_tumor_classification/data/images/00285_87.jpg,../brain_tumor_classification/data/labels/00285_87.txt
+00285_93,../brain_tumor_classification/data/images/00285_93.jpg,../brain_tumor_classification/data/labels/00285_93.txt
+00291_22,../brain_tumor_classification/data/images/00291_22.jpg,../brain_tumor_classification/data/labels/00291_22.txt
+00291_23,../brain_tumor_classification/data/images/00291_23.jpg,../brain_tumor_classification/data/labels/00291_23.txt
+00291_24,../brain_tumor_classification/data/images/00291_24.jpg,../brain_tumor_classification/data/labels/00291_24.txt
+00294_20,../brain_tumor_classification/data/images/00294_20.jpg,../brain_tumor_classification/data/labels/00294_20.txt
+00294_21,../brain_tumor_classification/data/images/00294_21.jpg,../brain_tumor_classification/data/labels/00294_21.txt
+00294_22,../brain_tumor_classification/data/images/00294_22.jpg,../brain_tumor_classification/data/labels/00294_22.txt
+00294_23,../brain_tumor_classification/data/images/00294_23.jpg,../brain_tumor_classification/data/labels/00294_23.txt
+00296_118,../brain_tumor_classification/data/images/00296_118.jpg,../brain_tumor_classification/data/labels/00296_118.txt
+00296_124,../brain_tumor_classification/data/images/00296_124.jpg,../brain_tumor_classification/data/labels/00296_124.txt
+00296_125,../brain_tumor_classification/data/images/00296_125.jpg,../brain_tumor_classification/data/labels/00296_125.txt
+00296_130,../brain_tumor_classification/data/images/00296_130.jpg,../brain_tumor_classification/data/labels/00296_130.txt
+00296_132,../brain_tumor_classification/data/images/00296_132.jpg,../brain_tumor_classification/data/labels/00296_132.txt
+00299_101,../brain_tumor_classification/data/images/00299_101.jpg,../brain_tumor_classification/data/labels/00299_101.txt
+00299_91,../brain_tumor_classification/data/images/00299_91.jpg,../brain_tumor_classification/data/labels/00299_91.txt
+00303_81,../brain_tumor_classification/data/images/00303_81.jpg,../brain_tumor_classification/data/labels/00303_81.txt
+00303_85,../brain_tumor_classification/data/images/00303_85.jpg,../brain_tumor_classification/data/labels/00303_85.txt
+00304_101,../brain_tumor_classification/data/images/00304_101.jpg,../brain_tumor_classification/data/labels/00304_101.txt
+00304_107,../brain_tumor_classification/data/images/00304_107.jpg,../brain_tumor_classification/data/labels/00304_107.txt
+00304_113,../brain_tumor_classification/data/images/00304_113.jpg,../brain_tumor_classification/data/labels/00304_113.txt
+00304_119,../brain_tumor_classification/data/images/00304_119.jpg,../brain_tumor_classification/data/labels/00304_119.txt
+00304_98,../brain_tumor_classification/data/images/00304_98.jpg,../brain_tumor_classification/data/labels/00304_98.txt
+00305_105,../brain_tumor_classification/data/images/00305_105.jpg,../brain_tumor_classification/data/labels/00305_105.txt
+00305_107,../brain_tumor_classification/data/images/00305_107.jpg,../brain_tumor_classification/data/labels/00305_107.txt
+00305_113,../brain_tumor_classification/data/images/00305_113.jpg,../brain_tumor_classification/data/labels/00305_113.txt
+00305_116,../brain_tumor_classification/data/images/00305_116.jpg,../brain_tumor_classification/data/labels/00305_116.txt
+00305_97,../brain_tumor_classification/data/images/00305_97.jpg,../brain_tumor_classification/data/labels/00305_97.txt
+00305_98,../brain_tumor_classification/data/images/00305_98.jpg,../brain_tumor_classification/data/labels/00305_98.txt
+00306_102,../brain_tumor_classification/data/images/00306_102.jpg,../brain_tumor_classification/data/labels/00306_102.txt
+00306_109,../brain_tumor_classification/data/images/00306_109.jpg,../brain_tumor_classification/data/labels/00306_109.txt
+00306_115,../brain_tumor_classification/data/images/00306_115.jpg,../brain_tumor_classification/data/labels/00306_115.txt
+00306_92,../brain_tumor_classification/data/images/00306_92.jpg,../brain_tumor_classification/data/labels/00306_92.txt
+00306_96,../brain_tumor_classification/data/images/00306_96.jpg,../brain_tumor_classification/data/labels/00306_96.txt
+00311_105,../brain_tumor_classification/data/images/00311_105.jpg,../brain_tumor_classification/data/labels/00311_105.txt
+00311_111,../brain_tumor_classification/data/images/00311_111.jpg,../brain_tumor_classification/data/labels/00311_111.txt
+00311_117,../brain_tumor_classification/data/images/00311_117.jpg,../brain_tumor_classification/data/labels/00311_117.txt
+00311_118,../brain_tumor_classification/data/images/00311_118.jpg,../brain_tumor_classification/data/labels/00311_118.txt
+00311_123,../brain_tumor_classification/data/images/00311_123.jpg,../brain_tumor_classification/data/labels/00311_123.txt
+00313_118,../brain_tumor_classification/data/images/00313_118.jpg,../brain_tumor_classification/data/labels/00313_118.txt
+00313_119,../brain_tumor_classification/data/images/00313_119.jpg,../brain_tumor_classification/data/labels/00313_119.txt
+00313_124,../brain_tumor_classification/data/images/00313_124.jpg,../brain_tumor_classification/data/labels/00313_124.txt
+00313_126,../brain_tumor_classification/data/images/00313_126.jpg,../brain_tumor_classification/data/labels/00313_126.txt
+00313_130,../brain_tumor_classification/data/images/00313_130.jpg,../brain_tumor_classification/data/labels/00313_130.txt
+00313_133,../brain_tumor_classification/data/images/00313_133.jpg,../brain_tumor_classification/data/labels/00313_133.txt
+00317_20,../brain_tumor_classification/data/images/00317_20.jpg,../brain_tumor_classification/data/labels/00317_20.txt
+00317_21,../brain_tumor_classification/data/images/00317_21.jpg,../brain_tumor_classification/data/labels/00317_21.txt
+00317_22,../brain_tumor_classification/data/images/00317_22.jpg,../brain_tumor_classification/data/labels/00317_22.txt
+00317_23,../brain_tumor_classification/data/images/00317_23.jpg,../brain_tumor_classification/data/labels/00317_23.txt
+00317_24,../brain_tumor_classification/data/images/00317_24.jpg,../brain_tumor_classification/data/labels/00317_24.txt
+00317_25,../brain_tumor_classification/data/images/00317_25.jpg,../brain_tumor_classification/data/labels/00317_25.txt
+00317_26,../brain_tumor_classification/data/images/00317_26.jpg,../brain_tumor_classification/data/labels/00317_26.txt
+00317_27,../brain_tumor_classification/data/images/00317_27.jpg,../brain_tumor_classification/data/labels/00317_27.txt
+00317_28,../brain_tumor_classification/data/images/00317_28.jpg,../brain_tumor_classification/data/labels/00317_28.txt
+00322_108,../brain_tumor_classification/data/images/00322_108.jpg,../brain_tumor_classification/data/labels/00322_108.txt
+00322_114,../brain_tumor_classification/data/images/00322_114.jpg,../brain_tumor_classification/data/labels/00322_114.txt
+00322_115,../brain_tumor_classification/data/images/00322_115.jpg,../brain_tumor_classification/data/labels/00322_115.txt
+00322_147,../brain_tumor_classification/data/images/00322_147.jpg,../brain_tumor_classification/data/labels/00322_147.txt
+00322_153,../brain_tumor_classification/data/images/00322_153.jpg,../brain_tumor_classification/data/labels/00322_153.txt
+00328_100,../brain_tumor_classification/data/images/00328_100.jpg,../brain_tumor_classification/data/labels/00328_100.txt
+00329_87,../brain_tumor_classification/data/images/00329_87.jpg,../brain_tumor_classification/data/labels/00329_87.txt
+00329_90,../brain_tumor_classification/data/images/00329_90.jpg,../brain_tumor_classification/data/labels/00329_90.txt
+00332_141,../brain_tumor_classification/data/images/00332_141.jpg,../brain_tumor_classification/data/labels/00332_141.txt
+00332_147,../brain_tumor_classification/data/images/00332_147.jpg,../brain_tumor_classification/data/labels/00332_147.txt
+00334_101,../brain_tumor_classification/data/images/00334_101.jpg,../brain_tumor_classification/data/labels/00334_101.txt
+00334_108,../brain_tumor_classification/data/images/00334_108.jpg,../brain_tumor_classification/data/labels/00334_108.txt
+00334_114,../brain_tumor_classification/data/images/00334_114.jpg,../brain_tumor_classification/data/labels/00334_114.txt
+00334_120,../brain_tumor_classification/data/images/00334_120.jpg,../brain_tumor_classification/data/labels/00334_120.txt
+00334_121,../brain_tumor_classification/data/images/00334_121.jpg,../brain_tumor_classification/data/labels/00334_121.txt
+00334_91,../brain_tumor_classification/data/images/00334_91.jpg,../brain_tumor_classification/data/labels/00334_91.txt
+00334_95,../brain_tumor_classification/data/images/00334_95.jpg,../brain_tumor_classification/data/labels/00334_95.txt
+00338_15,../brain_tumor_classification/data/images/00338_15.jpg,../brain_tumor_classification/data/labels/00338_15.txt
+00340_119,../brain_tumor_classification/data/images/00340_119.jpg,../brain_tumor_classification/data/labels/00340_119.txt
+00340_121,../brain_tumor_classification/data/images/00340_121.jpg,../brain_tumor_classification/data/labels/00340_121.txt
+00340_132,../brain_tumor_classification/data/images/00340_132.jpg,../brain_tumor_classification/data/labels/00340_132.txt
+00340_138,../brain_tumor_classification/data/images/00340_138.jpg,../brain_tumor_classification/data/labels/00340_138.txt
+00350_126,../brain_tumor_classification/data/images/00350_126.jpg,../brain_tumor_classification/data/labels/00350_126.txt
+00350_128,../brain_tumor_classification/data/images/00350_128.jpg,../brain_tumor_classification/data/labels/00350_128.txt
+00350_132,../brain_tumor_classification/data/images/00350_132.jpg,../brain_tumor_classification/data/labels/00350_132.txt
+00350_135,../brain_tumor_classification/data/images/00350_135.jpg,../brain_tumor_classification/data/labels/00350_135.txt
+00350_139,../brain_tumor_classification/data/images/00350_139.jpg,../brain_tumor_classification/data/labels/00350_139.txt
+00350_145,../brain_tumor_classification/data/images/00350_145.jpg,../brain_tumor_classification/data/labels/00350_145.txt
+00350_151,../brain_tumor_classification/data/images/00350_151.jpg,../brain_tumor_classification/data/labels/00350_151.txt
+00350_157,../brain_tumor_classification/data/images/00350_157.jpg,../brain_tumor_classification/data/labels/00350_157.txt
+00352_103,../brain_tumor_classification/data/images/00352_103.jpg,../brain_tumor_classification/data/labels/00352_103.txt
+00352_93,../brain_tumor_classification/data/images/00352_93.jpg,../brain_tumor_classification/data/labels/00352_93.txt
+00352_97,../brain_tumor_classification/data/images/00352_97.jpg,../brain_tumor_classification/data/labels/00352_97.txt
+00359_103,../brain_tumor_classification/data/images/00359_103.jpg,../brain_tumor_classification/data/labels/00359_103.txt
+00359_109,../brain_tumor_classification/data/images/00359_109.jpg,../brain_tumor_classification/data/labels/00359_109.txt
+00359_115,../brain_tumor_classification/data/images/00359_115.jpg,../brain_tumor_classification/data/labels/00359_115.txt
+00359_116,../brain_tumor_classification/data/images/00359_116.jpg,../brain_tumor_classification/data/labels/00359_116.txt
+00359_121,../brain_tumor_classification/data/images/00359_121.jpg,../brain_tumor_classification/data/labels/00359_121.txt
+00359_123,../brain_tumor_classification/data/images/00359_123.jpg,../brain_tumor_classification/data/labels/00359_123.txt
+00359_97,../brain_tumor_classification/data/images/00359_97.jpg,../brain_tumor_classification/data/labels/00359_97.txt
+00360_102,../brain_tumor_classification/data/images/00360_102.jpg,../brain_tumor_classification/data/labels/00360_102.txt
+00360_87,../brain_tumor_classification/data/images/00360_87.jpg,../brain_tumor_classification/data/labels/00360_87.txt
+00360_90,../brain_tumor_classification/data/images/00360_90.jpg,../brain_tumor_classification/data/labels/00360_90.txt
+00360_96,../brain_tumor_classification/data/images/00360_96.jpg,../brain_tumor_classification/data/labels/00360_96.txt
+100 (2),../brain_tumor_classification/data/images/100 (2).jpg,../brain_tumor_classification/data/labels/100 (2).txt
+100 (3),../brain_tumor_classification/data/images/100 (3).jpg,../brain_tumor_classification/data/labels/100 (3).txt
+100,../brain_tumor_classification/data/images/100.jpg,../brain_tumor_classification/data/labels/100.txt
+102 (2),../brain_tumor_classification/data/images/102 (2).jpg,../brain_tumor_classification/data/labels/102 (2).txt
+102 (3),../brain_tumor_classification/data/images/102 (3).jpg,../brain_tumor_classification/data/labels/102 (3).txt
+102 (4),../brain_tumor_classification/data/images/102 (4).jpg,../brain_tumor_classification/data/labels/102 (4).txt
+102,../brain_tumor_classification/data/images/102.jpg,../brain_tumor_classification/data/labels/102.txt
+103 (2),../brain_tumor_classification/data/images/103 (2).jpg,../brain_tumor_classification/data/labels/103 (2).txt
+103,../brain_tumor_classification/data/images/103.jpg,../brain_tumor_classification/data/labels/103.txt
+104 (2),../brain_tumor_classification/data/images/104 (2).jpg,../brain_tumor_classification/data/labels/104 (2).txt
+104 (3),../brain_tumor_classification/data/images/104 (3).jpg,../brain_tumor_classification/data/labels/104 (3).txt
+104,../brain_tumor_classification/data/images/104.jpg,../brain_tumor_classification/data/labels/104.txt
+105,../brain_tumor_classification/data/images/105.jpg,../brain_tumor_classification/data/labels/105.txt
+106 (2),../brain_tumor_classification/data/images/106 (2).jpg,../brain_tumor_classification/data/labels/106 (2).txt
+106,../brain_tumor_classification/data/images/106.jpg,../brain_tumor_classification/data/labels/106.txt
+107,../brain_tumor_classification/data/images/107.jpg,../brain_tumor_classification/data/labels/107.txt
+108,../brain_tumor_classification/data/images/108.jpg,../brain_tumor_classification/data/labels/108.txt
+109 (2),../brain_tumor_classification/data/images/109 (2).jpg,../brain_tumor_classification/data/labels/109 (2).txt
+109,../brain_tumor_classification/data/images/109.jpg,../brain_tumor_classification/data/labels/109.txt
+110 (2),../brain_tumor_classification/data/images/110 (2).jpg,../brain_tumor_classification/data/labels/110 (2).txt
+110,../brain_tumor_classification/data/images/110.jpg,../brain_tumor_classification/data/labels/110.txt
+111,../brain_tumor_classification/data/images/111.jpg,../brain_tumor_classification/data/labels/111.txt
+112 (2),../brain_tumor_classification/data/images/112 (2).jpg,../brain_tumor_classification/data/labels/112 (2).txt
+112,../brain_tumor_classification/data/images/112.jpg,../brain_tumor_classification/data/labels/112.txt
+113 (2),../brain_tumor_classification/data/images/113 (2).jpg,../brain_tumor_classification/data/labels/113 (2).txt
+113,../brain_tumor_classification/data/images/113.jpg,../brain_tumor_classification/data/labels/113.txt
+114,../brain_tumor_classification/data/images/114.jpg,../brain_tumor_classification/data/labels/114.txt
+115,../brain_tumor_classification/data/images/115.jpg,../brain_tumor_classification/data/labels/115.txt
+116,../brain_tumor_classification/data/images/116.jpg,../brain_tumor_classification/data/labels/116.txt
+118,../brain_tumor_classification/data/images/118.jpg,../brain_tumor_classification/data/labels/118.txt
+119,../brain_tumor_classification/data/images/119.jpg,../brain_tumor_classification/data/labels/119.txt
+124,../brain_tumor_classification/data/images/124.jpg,../brain_tumor_classification/data/labels/124.txt
+125,../brain_tumor_classification/data/images/125.jpg,../brain_tumor_classification/data/labels/125.txt
+128 (2),../brain_tumor_classification/data/images/128 (2).jpg,../brain_tumor_classification/data/labels/128 (2).txt
+128,../brain_tumor_classification/data/images/128.jpg,../brain_tumor_classification/data/labels/128.txt
+138,../brain_tumor_classification/data/images/138.jpg,../brain_tumor_classification/data/labels/138.txt
+144,../brain_tumor_classification/data/images/144.jpg,../brain_tumor_classification/data/labels/144.txt
+61 (3),../brain_tumor_classification/data/images/61 (3).jpg,../brain_tumor_classification/data/labels/61 (3).txt
+61 (4),../brain_tumor_classification/data/images/61 (4).jpg,../brain_tumor_classification/data/labels/61 (4).txt
+61 (6),../brain_tumor_classification/data/images/61 (6).jpg,../brain_tumor_classification/data/labels/61 (6).txt
+61 (7),../brain_tumor_classification/data/images/61 (7).jpg,../brain_tumor_classification/data/labels/61 (7).txt
+61 (8),../brain_tumor_classification/data/images/61 (8).jpg,../brain_tumor_classification/data/labels/61 (8).txt
+61,../brain_tumor_classification/data/images/61.jpg,../brain_tumor_classification/data/labels/61.txt
+62 (10),../brain_tumor_classification/data/images/62 (10).jpg,../brain_tumor_classification/data/labels/62 (10).txt
+62 (11),../brain_tumor_classification/data/images/62 (11).jpg,../brain_tumor_classification/data/labels/62 (11).txt
+62 (12),../brain_tumor_classification/data/images/62 (12).jpg,../brain_tumor_classification/data/labels/62 (12).txt
+62 (13),../brain_tumor_classification/data/images/62 (13).jpg,../brain_tumor_classification/data/labels/62 (13).txt
+62 (14),../brain_tumor_classification/data/images/62 (14).jpg,../brain_tumor_classification/data/labels/62 (14).txt
+62 (15),../brain_tumor_classification/data/images/62 (15).jpg,../brain_tumor_classification/data/labels/62 (15).txt
+62 (2),../brain_tumor_classification/data/images/62 (2).jpg,../brain_tumor_classification/data/labels/62 (2).txt
+62 (3),../brain_tumor_classification/data/images/62 (3).jpg,../brain_tumor_classification/data/labels/62 (3).txt
+62 (4),../brain_tumor_classification/data/images/62 (4).jpg,../brain_tumor_classification/data/labels/62 (4).txt
+62 (5),../brain_tumor_classification/data/images/62 (5).jpg,../brain_tumor_classification/data/labels/62 (5).txt
+62 (6),../brain_tumor_classification/data/images/62 (6).jpg,../brain_tumor_classification/data/labels/62 (6).txt
+62 (7),../brain_tumor_classification/data/images/62 (7).jpg,../brain_tumor_classification/data/labels/62 (7).txt
+62,../brain_tumor_classification/data/images/62.jpg,../brain_tumor_classification/data/labels/62.txt
+63 (2),../brain_tumor_classification/data/images/63 (2).jpg,../brain_tumor_classification/data/labels/63 (2).txt
+63 (3),../brain_tumor_classification/data/images/63 (3).jpg,../brain_tumor_classification/data/labels/63 (3).txt
+63 (4),../brain_tumor_classification/data/images/63 (4).jpg,../brain_tumor_classification/data/labels/63 (4).txt
+63 (5),../brain_tumor_classification/data/images/63 (5).jpg,../brain_tumor_classification/data/labels/63 (5).txt
+63 (6),../brain_tumor_classification/data/images/63 (6).jpg,../brain_tumor_classification/data/labels/63 (6).txt
+63 (8),../brain_tumor_classification/data/images/63 (8).jpg,../brain_tumor_classification/data/labels/63 (8).txt
+63,../brain_tumor_classification/data/images/63.jpg,../brain_tumor_classification/data/labels/63.txt
+64 (2),../brain_tumor_classification/data/images/64 (2).jpg,../brain_tumor_classification/data/labels/64 (2).txt
+64 (3),../brain_tumor_classification/data/images/64 (3).jpg,../brain_tumor_classification/data/labels/64 (3).txt
+64 (4),../brain_tumor_classification/data/images/64 (4).jpg,../brain_tumor_classification/data/labels/64 (4).txt
+64 (5),../brain_tumor_classification/data/images/64 (5).jpg,../brain_tumor_classification/data/labels/64 (5).txt
+64 (6),../brain_tumor_classification/data/images/64 (6).jpg,../brain_tumor_classification/data/labels/64 (6).txt
+64 (7),../brain_tumor_classification/data/images/64 (7).jpg,../brain_tumor_classification/data/labels/64 (7).txt
+64 (8),../brain_tumor_classification/data/images/64 (8).jpg,../brain_tumor_classification/data/labels/64 (8).txt
+64,../brain_tumor_classification/data/images/64.jpg,../brain_tumor_classification/data/labels/64.txt
+65 (10),../brain_tumor_classification/data/images/65 (10).jpg,../brain_tumor_classification/data/labels/65 (10).txt
+65 (11),../brain_tumor_classification/data/images/65 (11).jpg,../brain_tumor_classification/data/labels/65 (11).txt
+65 (12),../brain_tumor_classification/data/images/65 (12).jpg,../brain_tumor_classification/data/labels/65 (12).txt
+65 (2),../brain_tumor_classification/data/images/65 (2).jpg,../brain_tumor_classification/data/labels/65 (2).txt
+65 (3),../brain_tumor_classification/data/images/65 (3).jpg,../brain_tumor_classification/data/labels/65 (3).txt
+65 (4),../brain_tumor_classification/data/images/65 (4).jpg,../brain_tumor_classification/data/labels/65 (4).txt
+65 (5),../brain_tumor_classification/data/images/65 (5).jpg,../brain_tumor_classification/data/labels/65 (5).txt
+65 (6),../brain_tumor_classification/data/images/65 (6).jpg,../brain_tumor_classification/data/labels/65 (6).txt
+65 (7),../brain_tumor_classification/data/images/65 (7).jpg,../brain_tumor_classification/data/labels/65 (7).txt
+65 (8),../brain_tumor_classification/data/images/65 (8).jpg,../brain_tumor_classification/data/labels/65 (8).txt
+65 (9),../brain_tumor_classification/data/images/65 (9).jpg,../brain_tumor_classification/data/labels/65 (9).txt
+65,../brain_tumor_classification/data/images/65.jpg,../brain_tumor_classification/data/labels/65.txt
+66 (10),../brain_tumor_classification/data/images/66 (10).jpg,../brain_tumor_classification/data/labels/66 (10).txt
+66 (12),../brain_tumor_classification/data/images/66 (12).jpg,../brain_tumor_classification/data/labels/66 (12).txt
+66 (13),../brain_tumor_classification/data/images/66 (13).jpg,../brain_tumor_classification/data/labels/66 (13).txt
+66 (2),../brain_tumor_classification/data/images/66 (2).jpg,../brain_tumor_classification/data/labels/66 (2).txt
+66 (3),../brain_tumor_classification/data/images/66 (3).jpg,../brain_tumor_classification/data/labels/66 (3).txt
+66 (4),../brain_tumor_classification/data/images/66 (4).jpg,../brain_tumor_classification/data/labels/66 (4).txt
+66 (5),../brain_tumor_classification/data/images/66 (5).jpg,../brain_tumor_classification/data/labels/66 (5).txt
+66 (6),../brain_tumor_classification/data/images/66 (6).jpg,../brain_tumor_classification/data/labels/66 (6).txt
+66 (7),../brain_tumor_classification/data/images/66 (7).jpg,../brain_tumor_classification/data/labels/66 (7).txt
+66 (8),../brain_tumor_classification/data/images/66 (8).jpg,../brain_tumor_classification/data/labels/66 (8).txt
+66 (9),../brain_tumor_classification/data/images/66 (9).jpg,../brain_tumor_classification/data/labels/66 (9).txt
+66,../brain_tumor_classification/data/images/66.jpg,../brain_tumor_classification/data/labels/66.txt
+67 (10),../brain_tumor_classification/data/images/67 (10).jpg,../brain_tumor_classification/data/labels/67 (10).txt
+67 (11),../brain_tumor_classification/data/images/67 (11).jpg,../brain_tumor_classification/data/labels/67 (11).txt
+67 (2),../brain_tumor_classification/data/images/67 (2).jpg,../brain_tumor_classification/data/labels/67 (2).txt
+67 (3),../brain_tumor_classification/data/images/67 (3).jpg,../brain_tumor_classification/data/labels/67 (3).txt
+67 (4),../brain_tumor_classification/data/images/67 (4).jpg,../brain_tumor_classification/data/labels/67 (4).txt
+67 (5),../brain_tumor_classification/data/images/67 (5).jpg,../brain_tumor_classification/data/labels/67 (5).txt
+67 (6),../brain_tumor_classification/data/images/67 (6).jpg,../brain_tumor_classification/data/labels/67 (6).txt
+67 (8),../brain_tumor_classification/data/images/67 (8).jpg,../brain_tumor_classification/data/labels/67 (8).txt
+67 (9),../brain_tumor_classification/data/images/67 (9).jpg,../brain_tumor_classification/data/labels/67 (9).txt
+67,../brain_tumor_classification/data/images/67.jpg,../brain_tumor_classification/data/labels/67.txt
+68 (10),../brain_tumor_classification/data/images/68 (10).jpg,../brain_tumor_classification/data/labels/68 (10).txt
+68 (2),../brain_tumor_classification/data/images/68 (2).jpg,../brain_tumor_classification/data/labels/68 (2).txt
+68 (3),../brain_tumor_classification/data/images/68 (3).jpg,../brain_tumor_classification/data/labels/68 (3).txt
+68 (4),../brain_tumor_classification/data/images/68 (4).jpg,../brain_tumor_classification/data/labels/68 (4).txt
+68 (5),../brain_tumor_classification/data/images/68 (5).jpg,../brain_tumor_classification/data/labels/68 (5).txt
+68 (6),../brain_tumor_classification/data/images/68 (6).jpg,../brain_tumor_classification/data/labels/68 (6).txt
+68 (7),../brain_tumor_classification/data/images/68 (7).jpg,../brain_tumor_classification/data/labels/68 (7).txt
+68 (8),../brain_tumor_classification/data/images/68 (8).jpg,../brain_tumor_classification/data/labels/68 (8).txt
+68 (9),../brain_tumor_classification/data/images/68 (9).jpg,../brain_tumor_classification/data/labels/68 (9).txt
+68,../brain_tumor_classification/data/images/68.jpg,../brain_tumor_classification/data/labels/68.txt
+69 (2),../brain_tumor_classification/data/images/69 (2).jpg,../brain_tumor_classification/data/labels/69 (2).txt
+69 (3),../brain_tumor_classification/data/images/69 (3).jpg,../brain_tumor_classification/data/labels/69 (3).txt
+69 (4),../brain_tumor_classification/data/images/69 (4).jpg,../brain_tumor_classification/data/labels/69 (4).txt
+69 (5),../brain_tumor_classification/data/images/69 (5).jpg,../brain_tumor_classification/data/labels/69 (5).txt
+69 (6),../brain_tumor_classification/data/images/69 (6).jpg,../brain_tumor_classification/data/labels/69 (6).txt
+69 (7),../brain_tumor_classification/data/images/69 (7).jpg,../brain_tumor_classification/data/labels/69 (7).txt
+69 (8),../brain_tumor_classification/data/images/69 (8).jpg,../brain_tumor_classification/data/labels/69 (8).txt
+69,../brain_tumor_classification/data/images/69.jpg,../brain_tumor_classification/data/labels/69.txt
+70 (10),../brain_tumor_classification/data/images/70 (10).jpg,../brain_tumor_classification/data/labels/70 (10).txt
+70 (11),../brain_tumor_classification/data/images/70 (11).jpg,../brain_tumor_classification/data/labels/70 (11).txt
+70 (2),../brain_tumor_classification/data/images/70 (2).jpg,../brain_tumor_classification/data/labels/70 (2).txt
+70 (3),../brain_tumor_classification/data/images/70 (3).jpg,../brain_tumor_classification/data/labels/70 (3).txt
+70 (4),../brain_tumor_classification/data/images/70 (4).jpg,../brain_tumor_classification/data/labels/70 (4).txt
+70 (5),../brain_tumor_classification/data/images/70 (5).jpg,../brain_tumor_classification/data/labels/70 (5).txt
+70 (6),../brain_tumor_classification/data/images/70 (6).jpg,../brain_tumor_classification/data/labels/70 (6).txt
+70 (7),../brain_tumor_classification/data/images/70 (7).jpg,../brain_tumor_classification/data/labels/70 (7).txt
+70 (8),../brain_tumor_classification/data/images/70 (8).jpg,../brain_tumor_classification/data/labels/70 (8).txt
+70 (9),../brain_tumor_classification/data/images/70 (9).jpg,../brain_tumor_classification/data/labels/70 (9).txt
+70,../brain_tumor_classification/data/images/70.jpg,../brain_tumor_classification/data/labels/70.txt
+71 (2),../brain_tumor_classification/data/images/71 (2).jpg,../brain_tumor_classification/data/labels/71 (2).txt
+71 (3),../brain_tumor_classification/data/images/71 (3).jpg,../brain_tumor_classification/data/labels/71 (3).txt
+71 (4),../brain_tumor_classification/data/images/71 (4).jpg,../brain_tumor_classification/data/labels/71 (4).txt
+71 (5),../brain_tumor_classification/data/images/71 (5).jpg,../brain_tumor_classification/data/labels/71 (5).txt
+71 (6),../brain_tumor_classification/data/images/71 (6).jpg,../brain_tumor_classification/data/labels/71 (6).txt
+71,../brain_tumor_classification/data/images/71.jpg,../brain_tumor_classification/data/labels/71.txt
+72 (10),../brain_tumor_classification/data/images/72 (10).jpg,../brain_tumor_classification/data/labels/72 (10).txt
+72 (11),../brain_tumor_classification/data/images/72 (11).jpg,../brain_tumor_classification/data/labels/72 (11).txt
+72 (2),../brain_tumor_classification/data/images/72 (2).jpg,../brain_tumor_classification/data/labels/72 (2).txt
+72 (3),../brain_tumor_classification/data/images/72 (3).jpg,../brain_tumor_classification/data/labels/72 (3).txt
+72 (4),../brain_tumor_classification/data/images/72 (4).jpg,../brain_tumor_classification/data/labels/72 (4).txt
+72 (5),../brain_tumor_classification/data/images/72 (5).jpg,../brain_tumor_classification/data/labels/72 (5).txt
+72 (6),../brain_tumor_classification/data/images/72 (6).jpg,../brain_tumor_classification/data/labels/72 (6).txt
+72 (7),../brain_tumor_classification/data/images/72 (7).jpg,../brain_tumor_classification/data/labels/72 (7).txt
+72 (8),../brain_tumor_classification/data/images/72 (8).jpg,../brain_tumor_classification/data/labels/72 (8).txt
+72 (9),../brain_tumor_classification/data/images/72 (9).jpg,../brain_tumor_classification/data/labels/72 (9).txt
+72,../brain_tumor_classification/data/images/72.jpg,../brain_tumor_classification/data/labels/72.txt
+73 (2),../brain_tumor_classification/data/images/73 (2).jpg,../brain_tumor_classification/data/labels/73 (2).txt
+73 (3),../brain_tumor_classification/data/images/73 (3).jpg,../brain_tumor_classification/data/labels/73 (3).txt
+73 (4),../brain_tumor_classification/data/images/73 (4).jpg,../brain_tumor_classification/data/labels/73 (4).txt
+73 (5),../brain_tumor_classification/data/images/73 (5).jpg,../brain_tumor_classification/data/labels/73 (5).txt
+73 (6),../brain_tumor_classification/data/images/73 (6).jpg,../brain_tumor_classification/data/labels/73 (6).txt
+73,../brain_tumor_classification/data/images/73.jpg,../brain_tumor_classification/data/labels/73.txt
+74 (10),../brain_tumor_classification/data/images/74 (10).jpg,../brain_tumor_classification/data/labels/74 (10).txt
+74 (11),../brain_tumor_classification/data/images/74 (11).jpg,../brain_tumor_classification/data/labels/74 (11).txt
+74 (12),../brain_tumor_classification/data/images/74 (12).jpg,../brain_tumor_classification/data/labels/74 (12).txt
+74 (2),../brain_tumor_classification/data/images/74 (2).jpg,../brain_tumor_classification/data/labels/74 (2).txt
+74 (3),../brain_tumor_classification/data/images/74 (3).jpg,../brain_tumor_classification/data/labels/74 (3).txt
+74 (4),../brain_tumor_classification/data/images/74 (4).jpg,../brain_tumor_classification/data/labels/74 (4).txt
+74 (5),../brain_tumor_classification/data/images/74 (5).jpg,../brain_tumor_classification/data/labels/74 (5).txt
+74 (6),../brain_tumor_classification/data/images/74 (6).jpg,../brain_tumor_classification/data/labels/74 (6).txt
+74 (7),../brain_tumor_classification/data/images/74 (7).jpg,../brain_tumor_classification/data/labels/74 (7).txt
+74 (8),../brain_tumor_classification/data/images/74 (8).jpg,../brain_tumor_classification/data/labels/74 (8).txt
+74 (9),../brain_tumor_classification/data/images/74 (9).jpg,../brain_tumor_classification/data/labels/74 (9).txt
+74,../brain_tumor_classification/data/images/74.jpg,../brain_tumor_classification/data/labels/74.txt
+75 (10),../brain_tumor_classification/data/images/75 (10).jpg,../brain_tumor_classification/data/labels/75 (10).txt
+75 (2),../brain_tumor_classification/data/images/75 (2).jpg,../brain_tumor_classification/data/labels/75 (2).txt
+75 (3),../brain_tumor_classification/data/images/75 (3).jpg,../brain_tumor_classification/data/labels/75 (3).txt
+75 (4),../brain_tumor_classification/data/images/75 (4).jpg,../brain_tumor_classification/data/labels/75 (4).txt
+75 (5),../brain_tumor_classification/data/images/75 (5).jpg,../brain_tumor_classification/data/labels/75 (5).txt
+75 (7),../brain_tumor_classification/data/images/75 (7).jpg,../brain_tumor_classification/data/labels/75 (7).txt
+75 (8),../brain_tumor_classification/data/images/75 (8).jpg,../brain_tumor_classification/data/labels/75 (8).txt
+75 (9),../brain_tumor_classification/data/images/75 (9).jpg,../brain_tumor_classification/data/labels/75 (9).txt
+75,../brain_tumor_classification/data/images/75.jpg,../brain_tumor_classification/data/labels/75.txt
+76 (10),../brain_tumor_classification/data/images/76 (10).jpg,../brain_tumor_classification/data/labels/76 (10).txt
+76 (11),../brain_tumor_classification/data/images/76 (11).jpg,../brain_tumor_classification/data/labels/76 (11).txt
+76 (12),../brain_tumor_classification/data/images/76 (12).jpg,../brain_tumor_classification/data/labels/76 (12).txt
+76 (2),../brain_tumor_classification/data/images/76 (2).jpg,../brain_tumor_classification/data/labels/76 (2).txt
+76 (3),../brain_tumor_classification/data/images/76 (3).jpg,../brain_tumor_classification/data/labels/76 (3).txt
+76 (4),../brain_tumor_classification/data/images/76 (4).jpg,../brain_tumor_classification/data/labels/76 (4).txt
+76 (5),../brain_tumor_classification/data/images/76 (5).jpg,../brain_tumor_classification/data/labels/76 (5).txt
+76 (6),../brain_tumor_classification/data/images/76 (6).jpg,../brain_tumor_classification/data/labels/76 (6).txt
+76 (7),../brain_tumor_classification/data/images/76 (7).jpg,../brain_tumor_classification/data/labels/76 (7).txt
+76 (8),../brain_tumor_classification/data/images/76 (8).jpg,../brain_tumor_classification/data/labels/76 (8).txt
+76 (9),../brain_tumor_classification/data/images/76 (9).jpg,../brain_tumor_classification/data/labels/76 (9).txt
+76,../brain_tumor_classification/data/images/76.jpg,../brain_tumor_classification/data/labels/76.txt
+77 (2),../brain_tumor_classification/data/images/77 (2).jpg,../brain_tumor_classification/data/labels/77 (2).txt
+77 (3),../brain_tumor_classification/data/images/77 (3).jpg,../brain_tumor_classification/data/labels/77 (3).txt
+77 (4),../brain_tumor_classification/data/images/77 (4).jpg,../brain_tumor_classification/data/labels/77 (4).txt
+77 (5),../brain_tumor_classification/data/images/77 (5).jpg,../brain_tumor_classification/data/labels/77 (5).txt
+77 (6),../brain_tumor_classification/data/images/77 (6).jpg,../brain_tumor_classification/data/labels/77 (6).txt
+77,../brain_tumor_classification/data/images/77.jpg,../brain_tumor_classification/data/labels/77.txt
+78 (2),../brain_tumor_classification/data/images/78 (2).jpg,../brain_tumor_classification/data/labels/78 (2).txt
+78 (3),../brain_tumor_classification/data/images/78 (3).jpg,../brain_tumor_classification/data/labels/78 (3).txt
+78 (4),../brain_tumor_classification/data/images/78 (4).jpg,../brain_tumor_classification/data/labels/78 (4).txt
+78 (5),../brain_tumor_classification/data/images/78 (5).jpg,../brain_tumor_classification/data/labels/78 (5).txt
+78 (6),../brain_tumor_classification/data/images/78 (6).jpg,../brain_tumor_classification/data/labels/78 (6).txt
+78,../brain_tumor_classification/data/images/78.jpg,../brain_tumor_classification/data/labels/78.txt
+79 (10),../brain_tumor_classification/data/images/79 (10).jpg,../brain_tumor_classification/data/labels/79 (10).txt
+79 (11),../brain_tumor_classification/data/images/79 (11).jpg,../brain_tumor_classification/data/labels/79 (11).txt
+79 (12),../brain_tumor_classification/data/images/79 (12).jpg,../brain_tumor_classification/data/labels/79 (12).txt
+79 (2),../brain_tumor_classification/data/images/79 (2).jpg,../brain_tumor_classification/data/labels/79 (2).txt
+79 (3),../brain_tumor_classification/data/images/79 (3).jpg,../brain_tumor_classification/data/labels/79 (3).txt
+79 (4),../brain_tumor_classification/data/images/79 (4).jpg,../brain_tumor_classification/data/labels/79 (4).txt
+79 (5),../brain_tumor_classification/data/images/79 (5).jpg,../brain_tumor_classification/data/labels/79 (5).txt
+79 (6),../brain_tumor_classification/data/images/79 (6).jpg,../brain_tumor_classification/data/labels/79 (6).txt
+79 (7),../brain_tumor_classification/data/images/79 (7).jpg,../brain_tumor_classification/data/labels/79 (7).txt
+79 (8),../brain_tumor_classification/data/images/79 (8).jpg,../brain_tumor_classification/data/labels/79 (8).txt
+79 (9),../brain_tumor_classification/data/images/79 (9).jpg,../brain_tumor_classification/data/labels/79 (9).txt
+79,../brain_tumor_classification/data/images/79.jpg,../brain_tumor_classification/data/labels/79.txt
+80 (2),../brain_tumor_classification/data/images/80 (2).jpg,../brain_tumor_classification/data/labels/80 (2).txt
+80 (3),../brain_tumor_classification/data/images/80 (3).jpg,../brain_tumor_classification/data/labels/80 (3).txt
+80 (4),../brain_tumor_classification/data/images/80 (4).jpg,../brain_tumor_classification/data/labels/80 (4).txt
+80 (5),../brain_tumor_classification/data/images/80 (5).jpg,../brain_tumor_classification/data/labels/80 (5).txt
+80 (6),../brain_tumor_classification/data/images/80 (6).jpg,../brain_tumor_classification/data/labels/80 (6).txt
+80 (7),../brain_tumor_classification/data/images/80 (7).jpg,../brain_tumor_classification/data/labels/80 (7).txt
+80,../brain_tumor_classification/data/images/80.jpg,../brain_tumor_classification/data/labels/80.txt
+81 (2),../brain_tumor_classification/data/images/81 (2).jpg,../brain_tumor_classification/data/labels/81 (2).txt
+81 (3),../brain_tumor_classification/data/images/81 (3).jpg,../brain_tumor_classification/data/labels/81 (3).txt
+81 (4),../brain_tumor_classification/data/images/81 (4).jpg,../brain_tumor_classification/data/labels/81 (4).txt
+81 (5),../brain_tumor_classification/data/images/81 (5).jpg,../brain_tumor_classification/data/labels/81 (5).txt
+81 (6),../brain_tumor_classification/data/images/81 (6).jpg,../brain_tumor_classification/data/labels/81 (6).txt
+81,../brain_tumor_classification/data/images/81.jpg,../brain_tumor_classification/data/labels/81.txt
+82 (2),../brain_tumor_classification/data/images/82 (2).jpg,../brain_tumor_classification/data/labels/82 (2).txt
+82 (3),../brain_tumor_classification/data/images/82 (3).jpg,../brain_tumor_classification/data/labels/82 (3).txt
+82 (4),../brain_tumor_classification/data/images/82 (4).jpg,../brain_tumor_classification/data/labels/82 (4).txt
+82 (5),../brain_tumor_classification/data/images/82 (5).jpg,../brain_tumor_classification/data/labels/82 (5).txt
+82,../brain_tumor_classification/data/images/82.jpg,../brain_tumor_classification/data/labels/82.txt
+83 (2),../brain_tumor_classification/data/images/83 (2).jpg,../brain_tumor_classification/data/labels/83 (2).txt
+83 (3),../brain_tumor_classification/data/images/83 (3).jpg,../brain_tumor_classification/data/labels/83 (3).txt
+83 (4),../brain_tumor_classification/data/images/83 (4).jpg,../brain_tumor_classification/data/labels/83 (4).txt
+83 (5),../brain_tumor_classification/data/images/83 (5).jpg,../brain_tumor_classification/data/labels/83 (5).txt
+83,../brain_tumor_classification/data/images/83.jpg,../brain_tumor_classification/data/labels/83.txt
+84 (2),../brain_tumor_classification/data/images/84 (2).jpg,../brain_tumor_classification/data/labels/84 (2).txt
+84 (3),../brain_tumor_classification/data/images/84 (3).jpg,../brain_tumor_classification/data/labels/84 (3).txt
+84 (4),../brain_tumor_classification/data/images/84 (4).jpg,../brain_tumor_classification/data/labels/84 (4).txt
+84,../brain_tumor_classification/data/images/84.jpg,../brain_tumor_classification/data/labels/84.txt
+85 (2),../brain_tumor_classification/data/images/85 (2).jpg,../brain_tumor_classification/data/labels/85 (2).txt
+85 (3),../brain_tumor_classification/data/images/85 (3).jpg,../brain_tumor_classification/data/labels/85 (3).txt
+85 (4),../brain_tumor_classification/data/images/85 (4).jpg,../brain_tumor_classification/data/labels/85 (4).txt
+85 (5),../brain_tumor_classification/data/images/85 (5).jpg,../brain_tumor_classification/data/labels/85 (5).txt
+85 (6),../brain_tumor_classification/data/images/85 (6).jpg,../brain_tumor_classification/data/labels/85 (6).txt
+85,../brain_tumor_classification/data/images/85.jpg,../brain_tumor_classification/data/labels/85.txt
+86 (2),../brain_tumor_classification/data/images/86 (2).jpg,../brain_tumor_classification/data/labels/86 (2).txt
+86,../brain_tumor_classification/data/images/86.jpg,../brain_tumor_classification/data/labels/86.txt
+87 (2),../brain_tumor_classification/data/images/87 (2).jpg,../brain_tumor_classification/data/labels/87 (2).txt
+87 (3),../brain_tumor_classification/data/images/87 (3).jpg,../brain_tumor_classification/data/labels/87 (3).txt
+87 (4),../brain_tumor_classification/data/images/87 (4).jpg,../brain_tumor_classification/data/labels/87 (4).txt
+87 (5),../brain_tumor_classification/data/images/87 (5).jpg,../brain_tumor_classification/data/labels/87 (5).txt
+87,../brain_tumor_classification/data/images/87.jpg,../brain_tumor_classification/data/labels/87.txt
+88 (2),../brain_tumor_classification/data/images/88 (2).jpg,../brain_tumor_classification/data/labels/88 (2).txt
+88 (3),../brain_tumor_classification/data/images/88 (3).jpg,../brain_tumor_classification/data/labels/88 (3).txt
+88 (4),../brain_tumor_classification/data/images/88 (4).jpg,../brain_tumor_classification/data/labels/88 (4).txt
+88 (5),../brain_tumor_classification/data/images/88 (5).jpg,../brain_tumor_classification/data/labels/88 (5).txt
+88,../brain_tumor_classification/data/images/88.jpg,../brain_tumor_classification/data/labels/88.txt
+89 (2),../brain_tumor_classification/data/images/89 (2).jpg,../brain_tumor_classification/data/labels/89 (2).txt
+89 (3),../brain_tumor_classification/data/images/89 (3).jpg,../brain_tumor_classification/data/labels/89 (3).txt
+89 (4),../brain_tumor_classification/data/images/89 (4).jpg,../brain_tumor_classification/data/labels/89 (4).txt
+89 (5),../brain_tumor_classification/data/images/89 (5).jpg,../brain_tumor_classification/data/labels/89 (5).txt
+89,../brain_tumor_classification/data/images/89.jpg,../brain_tumor_classification/data/labels/89.txt
+90 (2),../brain_tumor_classification/data/images/90 (2).jpg,../brain_tumor_classification/data/labels/90 (2).txt
+90 (3),../brain_tumor_classification/data/images/90 (3).jpg,../brain_tumor_classification/data/labels/90 (3).txt
+90,../brain_tumor_classification/data/images/90.jpg,../brain_tumor_classification/data/labels/90.txt
+91 (2),../brain_tumor_classification/data/images/91 (2).jpg,../brain_tumor_classification/data/labels/91 (2).txt
+91 (3),../brain_tumor_classification/data/images/91 (3).jpg,../brain_tumor_classification/data/labels/91 (3).txt
+91 (4),../brain_tumor_classification/data/images/91 (4).jpg,../brain_tumor_classification/data/labels/91 (4).txt
+91 (5),../brain_tumor_classification/data/images/91 (5).jpg,../brain_tumor_classification/data/labels/91 (5).txt
+91 (6),../brain_tumor_classification/data/images/91 (6).jpg,../brain_tumor_classification/data/labels/91 (6).txt
+91,../brain_tumor_classification/data/images/91.jpg,../brain_tumor_classification/data/labels/91.txt
+92 (2),../brain_tumor_classification/data/images/92 (2).jpg,../brain_tumor_classification/data/labels/92 (2).txt
+92 (3),../brain_tumor_classification/data/images/92 (3).jpg,../brain_tumor_classification/data/labels/92 (3).txt
+92 (4),../brain_tumor_classification/data/images/92 (4).jpg,../brain_tumor_classification/data/labels/92 (4).txt
+92 (5),../brain_tumor_classification/data/images/92 (5).jpg,../brain_tumor_classification/data/labels/92 (5).txt
+92 (6),../brain_tumor_classification/data/images/92 (6).jpg,../brain_tumor_classification/data/labels/92 (6).txt
+92,../brain_tumor_classification/data/images/92.jpg,../brain_tumor_classification/data/labels/92.txt
+93 (2),../brain_tumor_classification/data/images/93 (2).jpg,../brain_tumor_classification/data/labels/93 (2).txt
+93 (3),../brain_tumor_classification/data/images/93 (3).jpg,../brain_tumor_classification/data/labels/93 (3).txt
+93 (4),../brain_tumor_classification/data/images/93 (4).jpg,../brain_tumor_classification/data/labels/93 (4).txt
+93 (5),../brain_tumor_classification/data/images/93 (5).jpg,../brain_tumor_classification/data/labels/93 (5).txt
+93 (6),../brain_tumor_classification/data/images/93 (6).jpg,../brain_tumor_classification/data/labels/93 (6).txt
+93,../brain_tumor_classification/data/images/93.jpg,../brain_tumor_classification/data/labels/93.txt
+94 (2),../brain_tumor_classification/data/images/94 (2).jpg,../brain_tumor_classification/data/labels/94 (2).txt
+94 (3),../brain_tumor_classification/data/images/94 (3).jpg,../brain_tumor_classification/data/labels/94 (3).txt
+94 (4),../brain_tumor_classification/data/images/94 (4).jpg,../brain_tumor_classification/data/labels/94 (4).txt
+94 (5),../brain_tumor_classification/data/images/94 (5).jpg,../brain_tumor_classification/data/labels/94 (5).txt
+94 (6),../brain_tumor_classification/data/images/94 (6).jpg,../brain_tumor_classification/data/labels/94 (6).txt
+94,../brain_tumor_classification/data/images/94.jpg,../brain_tumor_classification/data/labels/94.txt
+95 (2),../brain_tumor_classification/data/images/95 (2).jpg,../brain_tumor_classification/data/labels/95 (2).txt
+95 (3),../brain_tumor_classification/data/images/95 (3).jpg,../brain_tumor_classification/data/labels/95 (3).txt
+95 (4),../brain_tumor_classification/data/images/95 (4).jpg,../brain_tumor_classification/data/labels/95 (4).txt
+95,../brain_tumor_classification/data/images/95.jpg,../brain_tumor_classification/data/labels/95.txt
+96 (2),../brain_tumor_classification/data/images/96 (2).jpg,../brain_tumor_classification/data/labels/96 (2).txt
+96 (3),../brain_tumor_classification/data/images/96 (3).jpg,../brain_tumor_classification/data/labels/96 (3).txt
+96 (4),../brain_tumor_classification/data/images/96 (4).jpg,../brain_tumor_classification/data/labels/96 (4).txt
+96 (5),../brain_tumor_classification/data/images/96 (5).jpg,../brain_tumor_classification/data/labels/96 (5).txt
+96,../brain_tumor_classification/data/images/96.jpg,../brain_tumor_classification/data/labels/96.txt
+97 (2),../brain_tumor_classification/data/images/97 (2).jpg,../brain_tumor_classification/data/labels/97 (2).txt
+97 (3),../brain_tumor_classification/data/images/97 (3).jpg,../brain_tumor_classification/data/labels/97 (3).txt
+97,../brain_tumor_classification/data/images/97.jpg,../brain_tumor_classification/data/labels/97.txt
+98 (2),../brain_tumor_classification/data/images/98 (2).jpg,../brain_tumor_classification/data/labels/98 (2).txt
+98 (3),../brain_tumor_classification/data/images/98 (3).jpg,../brain_tumor_classification/data/labels/98 (3).txt
+98 (4),../brain_tumor_classification/data/images/98 (4).jpg,../brain_tumor_classification/data/labels/98 (4).txt
+98,../brain_tumor_classification/data/images/98.jpg,../brain_tumor_classification/data/labels/98.txt
+99 (2),../brain_tumor_classification/data/images/99 (2).jpg,../brain_tumor_classification/data/labels/99 (2).txt
+99 (3),../brain_tumor_classification/data/images/99 (3).jpg,../brain_tumor_classification/data/labels/99 (3).txt
+99 (4),../brain_tumor_classification/data/images/99 (4).jpg,../brain_tumor_classification/data/labels/99 (4).txt
+99,../brain_tumor_classification/data/images/99.jpg,../brain_tumor_classification/data/labels/99.txt
